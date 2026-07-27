@@ -1,0 +1,16 @@
+# Manual GPC overrides — applied AFTER auto-inference.
+# Use this for products where the rule-based inference is wrong or empty.
+#
+# Format:
+#   id,google_product_category
+#
+# The id must match the g:id in feed.xml (variant ID, e.g. LWBA00001-ROAD).
+# To find an id, search the title in feed.xml or in Meta Commerce Manager.
+#
+# Lines starting with # are ignored. Leave this file empty (just headers)
+# if you don't need any overrides.
+id,google_product_category
+
+# Examples (uncomment and adjust as needed):
+# LWBA00001-ROAD,5841
+# SWCT02097-BLACK,187
