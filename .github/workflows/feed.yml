@@ -1,0 +1,48 @@
+name: Generate product feed
+
+on:
+  schedule:
+    # Run daily at 04:00 UTC (07:00 Israel time, before business hours).
+    - cron: '0 4 * * *'
+  workflow_dispatch:  # allow manual triggering from the Actions tab
+
+permissions:
+  contents: write  # needed to commit feed.xml back to the repo
+
+jobs:
+  build-feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Ensure docs directory exists (no-Jekyll)
+        run: |
+          mkdir -p docs
+          touch docs/.nojekyll
+
+      - name: Run scraper
+        run: python zv_feed.py --output docs/feed.xml
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.xml docs/.nojekyll
+          if git diff --staged --quiet; then
+            echo "No changes to feed.xml — skipping commit"
+          else
+            git commit -m "Update product feed [$(date -u +'%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi
