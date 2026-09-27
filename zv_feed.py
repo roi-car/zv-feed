@@ -30,6 +30,7 @@ import requests
 from bs4 import BeautifulSoup
 
 from sitemap_writer import write_sitemap
+from gmc_supplemental import write_supplemental_tsv
 import image_mirror
 
 # =============================================================================
@@ -398,6 +399,10 @@ class Product:
     custom_label_3: Optional[str] = None
     custom_label_4: Optional[str] = None
 
+    # Feed IDs from the product page's "Complete the look" block. Not emitted in
+    # feed.xml; written to the GMC supplemental TSV as related_product.
+    related_ids: list = field(default_factory=list)
+
     def to_xml(self) -> str:
         """Render this product as a Meta/Google-compatible RSS <item>."""
         parts = [
@@ -649,6 +654,57 @@ def clean_text(text: str) -> str:
     return text
 
 
+def make_variant_id(sku: str, color_slug: str) -> str:
+    """Build the feed id (SKU_COLOR) from a URL's SKU and color slug.
+
+    Format matches production Meta catalog convention: underscore separator,
+    translated English color, uppercase, internal spaces preserved.
+    e.g. LWBA00001_BLACK, WWPA01902_DARK BLUE.
+    """
+    color_display = translate_color(color_slug) if color_slug else None
+    if not color_display:
+        return sku.upper()
+    color_id = re.sub(r"[^A-Z0-9 ]+", "", color_display.upper()).strip()
+    color_id = re.sub(r"\s+", " ", color_id)
+    return f"{sku.upper()}_{color_id}" if color_id else sku.upper()
+
+
+COMPLETE_THE_LOOK_RE = re.compile(r"^\s*complete the look\s*$", re.IGNORECASE)
+
+
+def extract_complete_the_look(soup: BeautifulSoup, self_id: str = "") -> list:
+    """Return feed ids of products in the page's "Complete the look" block.
+
+    Walks forward from the heading and collects product links until the first
+    heading or non-product link after the block (i.e. the footer).
+    """
+    heading = soup.find(
+        lambda t: t.name in ("h2", "h3", "h4", "div", "span", "p")
+        and COMPLETE_THE_LOOK_RE.match(t.get_text(" ", strip=True) or "")
+        and not t.find(["h2", "h3", "h4"])  # innermost match, not a wrapper
+    )
+    if not heading:
+        return []
+    ids = []
+    for el in heading.find_all_next(["a", "h1", "h2", "h3", "footer"]):
+        if el.name != "a":
+            break
+        path = urlparse(el.get("href", "")).path
+        if not PRODUCT_URL_RE.match(path):
+            if ids:
+                break          # left the block
+            continue
+        meta = parse_product_url(el["href"])
+        if not meta:
+            continue
+        rid = make_variant_id(meta["sku"], meta["color"])
+        if rid != self_id and rid not in ids:
+            ids.append(rid)
+        if len(ids) >= 12:
+            break
+    return ids
+
+
 def extract_product(session: requests.Session, url: str) -> Optional[Product]:
     """Fetch a product page and extract all available data."""
     html = fetch(session, url)
@@ -721,17 +777,10 @@ def extract_product(session: requests.Session, url: str) -> Optional[Product]:
     product_type = " > ".join(p.title() for p in meta["category_path"])
 
     # --- Compose variant ID ---
-    # Format matches production Meta catalog convention:
-    # SKU_COLOR (underscore separator between SKU and color),
-    # translated English color, uppercase, with internal spaces preserved.
-    # e.g. LWBA00001_BLACK (single-word), WWPA01902_DARK BLUE (multi-word).
-    if color_display:
-        color_id = re.sub(r"[^A-Z0-9 ]+", "", color_display.upper()).strip()
-        # Collapse repeated spaces to a single space
-        color_id = re.sub(r"\s+", " ", color_id)
-        variant_id = f"{meta['sku']}_{color_id}" if color_id else meta["sku"]
-    else:
-        variant_id = meta["sku"]
+    variant_id = make_variant_id(meta["sku"], meta["color"])
+
+    # --- Complete the look (-> related_product in GMC supplemental) ---
+    related_ids = extract_complete_the_look(soup, self_id=variant_id)
 
     return Product(
         id=variant_id,
@@ -749,6 +798,7 @@ def extract_product(session: requests.Session, url: str) -> Optional[Product]:
         product_type=product_type,
         availability=availability,
         google_product_category=infer_google_category(product_type, title),
+        related_ids=related_ids,
     )
 
 
@@ -1055,6 +1105,20 @@ def main():
     print(f"  Products: {len(products)}")
     print(f"  Upload this file (or host its URL) to Meta Commerce Manager")
     print(f"  and/or Google Merchant Center as a scheduled feed.")
+
+    # --- Write GMC supplemental feed (conversational attrs, highlights, details) ---
+    # Separate TSV joined on id in GMC; Meta keeps reading feed.xml only.
+    supp_path = args.output.replace("feed.xml", "gmc_supplemental.tsv")
+    if supp_path == args.output:
+        supp_path = args.output.rsplit(".", 1)[0] + "-gmc_supplemental.tsv"
+    stats = write_supplemental_tsv(products, supp_path, french_colors=COLOR_FR_TO_EN.keys())
+    rows = stats.get("rows", 0) or 1
+    print(f"\n✓ GMC supplemental ready: {supp_path} ({stats.get('rows', 0)} rows)")
+    for col in ("item_group_title", "variant_option", "product_highlight", "product_detail",
+                "material", "related_product"):
+        print(f"  {col:<18} {stats.get(col, 0):>4} ({stats.get(col, 0) * 100 // rows}%)")
+    print(f"  related ids dropped: {stats.get('related_dropped_not_in_feed', 0)} not in feed, "
+          f"{stats.get('related_dropped_space_in_id', 0)} with spaces (GMC identifiers can't contain spaces)")
 
     # --- Write sitemap (reuses the same crawl — no extra site load) ---
     # full_unquote handles the same triple-encoded-ampersand issue here as it
