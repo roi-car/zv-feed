@@ -469,25 +469,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/dresses+%26+skirts/wwdr02729,cherry,ridar-dress-100%25-silk.html</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/dresses+%26+skirts/wwdr02715,cherry,redoxal-dress-100%25-silk.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/dresses+%26+skirts/wwdr02721,black,respas-dress-100%25-silk.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/dresses+%26+skirts/wwdr02729,cherry,ridar-dress-100%25-silk.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/blazers+%26+jackets/kwco01553,black,camy-coat.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/dresses+%26+skirts/wwdr02721,black,respas-dress-100%25-silk.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -649,13 +649,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/blazers+%26+jackets/rwco01069,gloom,mentlyr-leather-coat.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/suits+%26+sets/wwow01762,medium+blue,lessa-denim-jacket.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/suits+%26+sets/wwow01762,medium+blue,lessa-denim-jacket.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/blazers+%26+jackets/rwco01069,gloom,mentlyr-leather-coat.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -745,13 +745,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/t-shirts/jwtn02685,white,tunisien-henley-t-shirt.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/pants+%26+jeans/rwpa01110,black,perya-leather-pants.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/pants+%26+jeans/rwpa01110,black,perya-leather-pants.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/t-shirts/jwtn02685,white,tunisien-henley-t-shirt.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1039,6 +1039,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmtn01631,gris+chine,tunisien-monastir.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmtn01631,judo,tunisien-monastir.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
@@ -1046,12 +1052,6 @@
   </url>
   <url>
     <loc>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmtn01631,encre,tunisien-monastir.html</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmtn01631,gris+chine,tunisien-monastir.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1087,6 +1087,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmtn01630,encre,tunisien-monastir-t-shirt.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmtn01630,judo,tunisien-monastir-t-shirt.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
@@ -1099,25 +1105,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmtn01630,encre,tunisien-monastir-t-shirt.html</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.zadigetvoltaire.co.il/en/product/men/iconics/wmje00012,gris,mick-jeans.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmts01756,gris+chine+clai,tommy-t-shirt.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/handbags/lwba04538,black,madison-small-bag.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/handbags/lwba04538,black,madison-small-bag.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmts01756,gris+chine+clai,tommy-t-shirt.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1153,13 +1153,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/shoulder+bags/lwba04457,black+gold,jim-mini-suede-bag.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/shoulder+bags/lwba04528,cognac,angel-tote-suede-bag.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/shoulder+bags/lwba04528,cognac,angel-tote-suede-bag.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/shoulder+bags/lwba04457,black+gold,jim-mini-suede-bag.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1399,13 +1399,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/iconics/whap2019f,noir,rocky-studs-bag.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/shoulder+bags/lwba04244,black,rocky-ii-vintage-patent-studs.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/shoulder+bags/lwba04244,black,rocky-ii-vintage-patent-studs.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/iconics/whap2019f,noir,rocky-studs-bag.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1969,13 +1969,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/last+chance/women/wwje01328,light+blue,eli-jeans.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/last+chance/bags/lwba04257,power,angel-tote-xs-bag.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/last+chance/bags/lwba04257,power,angel-tote-xs-bag.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/last+chance/women/wwje01328,light+blue,eli-jeans.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1987,13 +1987,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/last+chance/women/wwdr02688,encre,rhelyne-dress.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/last+chance/women/wwsh02282,medium+blue,timona-denim-shirt.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/last+chance/women/wwsh02282,medium+blue,timona-denim-shirt.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/last+chance/women/wwdr02688,encre,rhelyne-dress.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -2059,13 +2059,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/last+chance/bags/wkab2003f,noir,rock-nano-mat-scale.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/last+chance/women/wwsk01643,storm,jayla-silk-skirt.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/last+chance/women/wwsk01643,storm,jayla-silk-skirt.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/last+chance/bags/wkab2003f,noir,rock-nano-mat-scale.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -2353,13 +2353,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/cherry+collection/lwog02313,power,devilish-heart-keyring.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/cherry+collection/jwtt01297,bleu+oxford,albao-tank-top.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/cherry+collection/jwtt01297,bleu+oxford,albao-tank-top.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/cherry+collection/lwog02313,power,devilish-heart-keyring.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -2521,7 +2521,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/the+holiday+edit/wwcr01349,bleu+oxford,cespa-camisole.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/the+holiday+edit/owjw01732,shiny+silver,rock-star-single-necklace.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -2533,7 +2533,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/the+holiday+edit/owjw01732,shiny+silver,rock-star-single-necklace.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/the+holiday+edit/wwcr01349,bleu+oxford,cespa-camisole.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -2581,13 +2581,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/sweaters+%26+cardigans/kwsw02931,eggshell,idal-sweater-100%25-cashmere.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/sweaters+%26+cardigans/kwca01685,vanille,mally-sleevless-vest.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/sweaters+%26+cardigans/kwca01685,vanille,mally-sleevless-vest.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/sweaters+%26+cardigans/kwsw02931,eggshell,idal-sweater-100%25-cashmere.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -2869,13 +2869,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/t-shirts/jwts02906,tea,marta-t-shirt.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/t-shirts/jwts02906,encre,marta-t-shirt.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/t-shirts/jwts02906,encre,marta-t-shirt.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/t-shirts/jwts02906,tea,marta-t-shirt.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -2899,13 +2899,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/blazers+%26+jackets/wwow01723,moss,kid-jacket.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/blazers+%26+jackets/wwbl01955,cookie,vavy-blazer.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/blazers+%26+jackets/wwbl01955,cookie,vavy-blazer.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/blazers+%26+jackets/wwow01723,moss,kid-jacket.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -2959,6 +2959,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/pants+%26+jeans/wwje01337,light+blue,eli-jeans.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/pants+%26+jeans/wwje00007,medium+blue,mamma-eco-jeans.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
@@ -2966,12 +2972,6 @@
   </url>
   <url>
     <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/pants+%26+jeans/wwje00007,judo,mamma-eco-jeans.html</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/pants+%26+jeans/wwje01337,light+blue,eli-jeans.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -3085,13 +3085,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/handbags/lwba04246,black,angel-tote-xs-bag.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/shoulder+bags/lwba00017,noir+silver,kate-wallet-bag.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/shoulder+bags/lwba00017,noir+silver,kate-wallet-bag.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/handbags/lwba04246,black,angel-tote-xs-bag.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -3109,13 +3109,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/handbags/lwba03803,flame,z-shopper-xl-monogrammed-bag.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/handbags/lwba03803,noir,z-shopper-xl-monogrammed-bag.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/handbags/lwba03803,noir,z-shopper-xl-monogrammed-bag.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/handbags/lwba03803,flame,z-shopper-xl-monogrammed-bag.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -3355,25 +3355,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/wallets+%26+purses/pwgap4002f,noir,zv-pass-card-case.html</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.zadigetvoltaire.co.il/en/product/bags/wallets+%26+purses/lwsg03663,cognac,mini-zv-wallet.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/bag+accessories/lwog02319,black,motorider-keyring.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/wallets+%26+purses/pwgap4002f,noir,zv-pass-card-case.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.zadigetvoltaire.co.il/en/product/bags/bag+accessories/lwog01143,shiny+silver,chain-charms-key-ring.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/bag+accessories/lwog02319,black,motorider-keyring.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -3583,13 +3583,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/our+lines/jane/lwba04184,brownie,jane-hobo-vintage-patent-bag.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/shoulder+straps/lwog00005,noir+silver,glitter-bag-strap.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/shoulder+straps/lwog00005,noir+silver,glitter-bag-strap.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/our+lines/jane/lwba04184,brownie,jane-hobo-vintage-patent-bag.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -3613,13 +3613,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/our+lines/sunny/lwba03891,flash,sunny-moody-bag.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/our+lines/sunny/lwba02518,flash,sunny-wallet.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/our+lines/sunny/lwba02518,flash,sunny-wallet.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/our+lines/sunny/lwba03891,flash,sunny-moody-bag.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -3637,13 +3637,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/our+lines/sunny/lwba02517,noir,sunny-pass-card-holder.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/our+lines/sunny/lwba02517,flash,sunny-pass-card-holder.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/our+lines/sunny/lwba02517,flash,sunny-pass-card-holder.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/our+lines/sunny/lwba02517,noir,sunny-pass-card-holder.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -3733,13 +3733,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/iconics/lwba00055,flash,rocky-xl-mat-scale-bag.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/iconics/lwba02269,flash,rocky-soft-savage-bag.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/iconics/lwba02269,flash,rocky-soft-savage-bag.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/bags/iconics/lwba00055,flash,rocky-xl-mat-scale-bag.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -3757,13 +3757,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/jewelry/owjw01785,shiny+silver,peace-necklace.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/jewelry/owjw01793,shiny+gold,long-necklace-heartbreaker.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/jewelry/owjw01793,shiny+gold,long-necklace-heartbreaker.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/jewelry/owjw01785,shiny+silver,peace-necklace.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -3877,13 +3877,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/jewelry/owjw01758,power,zadig-heart-strass-bracelet.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/jewelry/owjw01782,fierce,voltaire-woven-bracelet.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/jewelry/owjw01782,fierce,voltaire-woven-bracelet.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/jewelry/owjw01758,power,zadig-heart-strass-bracelet.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -4219,13 +4219,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/lifestyle+objects/owli00031,noir,happiness-flames-candle.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/lifestyle+objects/owli00013,noir,cup-of-joy-mug.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/lifestyle+objects/owli00013,noir,cup-of-joy-mug.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/lifestyle+objects/owli00031,noir,happiness-flames-candle.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -4243,13 +4243,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/lifestyle+objects/owli00003,noir,play-with-me-card-game.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/lifestyle+objects/owli00010,old+gold,hot-mess-bowl.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/lifestyle+objects/owli00010,old+gold,hot-mess-bowl.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/accessories/lifestyle+objects/owli00003,noir,play-with-me-card-game.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -4435,13 +4435,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/men/accessories/wjab4023h,noir,zv-initiale-noam-card.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/men/accessories/smsn00093,noir,wings-low-top-men-trainers.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/men/accessories/smsn00093,noir,wings-low-top-men-trainers.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/men/accessories/wjab4023h,noir,zv-initiale-noam-card.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -4459,13 +4459,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/men/coats+%26+jackets/wmow01424,light+blue,bases-denim-jackt.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/men/coats+%26+jackets/wmow01418,treillis,boye-coat.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/men/coats+%26+jackets/wmow01418,treillis,boye-coat.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/men/coats+%26+jackets/wmow01424,light+blue,bases-denim-jackt.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -4543,25 +4543,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/men/pants+%26+jeans/wmpa00182,latte,steeve-corduroy-pants.html</loc>
-    <lastmod>2026-09-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.zadigetvoltaire.co.il/en/product/men/pants+%26+jeans/wmpa00182,encre,steeve-corduroy-pants.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/men/pants+%26+jeans/wmpa00182,dark+chocolate,steeve-corduroy-pants.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/men/pants+%26+jeans/wmpa00182,latte,steeve-corduroy-pants.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.zadigetvoltaire.co.il/en/product/men/pants+%26+jeans/wmje00009,brut,mick-jeans.html</loc>
+    <lastmod>2026-09-27</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/men/pants+%26+jeans/wmpa00182,dark+chocolate,steeve-corduroy-pants.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -4609,13 +4609,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/men/sweaters+%26+cardigans/kmca01283,olive,clash-cardigan.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/men/sweaters+%26+cardigans/kmsw01811,cream,teiss-100%25-cashmere-sweater.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/men/sweaters+%26+cardigans/kmsw01811,cream,teiss-100%25-cashmere-sweater.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/men/sweaters+%26+cardigans/kmca01283,olive,clash-cardigan.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -4813,13 +4813,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmtn01648,judo,henley-t-shirt-monastir.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmts01751,carbone,torry-t-shirt.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmts01751,carbone,torry-t-shirt.html</loc>
+    <loc>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmtn01648,judo,henley-t-shirt-monastir.html</loc>
     <lastmod>2026-09-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
