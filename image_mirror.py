@@ -43,7 +43,7 @@ log = logging.getLogger("zv-feed")
 # CONFIGURATION
 # =============================================================================
 
-SELF_HOST_IMAGES = True
+SELF_HOST_IMAGES = False
 
 # Where images are written (inside the GitHub Pages folder) and served from.
 IMG_DIR = "docs/img"
