@@ -15,6 +15,7 @@ Output:
 """
 
 import argparse
+import html as html_lib
 import logging
 import re
 import sys
@@ -119,6 +120,9 @@ GPC_TITLE_OVERRIDES = [
     ("card wallet", 2668),
     ("pass card", 2668),   # "ZV PASS CARD HOLDER"
     ("wallet", 2668),      # catches MINI ZV WALLET, SUNNY WALLET, etc.
+    # Shorts are shelved under "Pants & Jeans", whose leaf maps to 204 Pants.
+    # 207 = Apparel & Accessories > Clothing > Shorts
+    (" shorts ", 207),
 ]
 
 
@@ -171,6 +175,8 @@ GPC_BY_LEAF = {
     "cardigans": 212, "knitwear": 212,
     # Outerwear - 5598 = Apparel & Accessories > Clothing > Outerwear > Coats & Jackets
     "coats & jackets": 5598, "jackets": 5598, "coats": 5598, "outerwear": 5598,
+    # Fragrance - 479 = Health & Beauty > Personal Care > Cosmetics > Perfume & Cologne
+    "fragrance": 479, "fragrances": 479, "perfumes": 479,
 }
 
 # Stage 2: title keyword -> GPC code. Order matters — more specific first
@@ -186,6 +192,7 @@ GPC_BY_KEYWORD = [
     ("watch", 201),
     ("scarf", 177), ("bandana", 177),
     ("keyring", 175), ("keychain", 175),
+    ("perfume", 479), ("parfum", 479), ("eau de", 479),
     ("belt", 169),
     ("new era", 173), ("bob ", 173), (" cap", 173), ("hat", 173),
     # --- Jewelry (specific child categories) ---
@@ -323,6 +330,7 @@ COLOR_FR_TO_EN = {
     "BLANC": "White",
     "ECRU": "Off White",
     "ROAD": "Road Grey",
+    "ARDOISE": "Dark Gray",   # matches production Meta ID JMTS01794_DARK GRAY
     # Common additions that may appear over time:
     "ROUGE": "Red",
     "BLEU": "Blue",
@@ -641,17 +649,25 @@ def clean_text(text: str) -> str:
 
     The site's source data has some characters stored as broken bytes
     (likely cp1252 leakage in a UTF-8 CMS), which decode to the Unicode
-    replacement character �. We patch the predictable cases.
+    replacement character �. Degree signs, curly quotes, apostrophes AND
+    bullet points all collapse to the same �, so we tell them apart by position.
     """
     if not text:
         return text
+    R = "\uFFFD"
     # Degree sign: "20�C" -> "20°C"
     text = re.sub(r"(\d+)\uFFFDC\b", r"\1°C", text)
-    # Curly quotes around a word or phrase: "�Voltaire�" -> "\"Voltaire\""
-    text = re.sub(r"\uFFFD([^\uFFFD]{1,40}?)\uFFFD", r'"\1"', text)
-    # Anything left over — just drop the lone replacement chars
-    text = text.replace("\uFFFD", "")
-    return text
+    # Apostrophe inside a word: "Rock�N�Roll" -> "Rock'N'Roll", "it�s" -> "it's"
+    text = re.sub(r"(?<=\w)\uFFFD(?=\w)", "'", text)
+    # Curly-quote pair: opens after whitespace/start, closes right after a
+    # non-space char and is not followed by a letter. "�Voltaire�" -> "\"Voltaire\""
+    text = re.sub(r"(?<!\S)\uFFFD(\S(?:[^\uFFFD]{0,40}?\S)?)\uFFFD(?!\w)", r'"\1"', text)
+    # Whatever is left in front of a word is a bullet point. Emit " - " bullets,
+    # the format description_parser.py already understands.
+    text = re.sub(r"\s*\uFFFD\s*(?=\S)", " - ", text)
+    # Anything still left — drop it
+    text = text.replace(R, "")
+    return " ".join(text.split())
 
 
 def make_variant_id(sku: str, color_slug: str) -> str:
@@ -705,6 +721,65 @@ def extract_complete_the_look(soup: BeautifulSoup, self_id: str = "") -> list:
     return ids
 
 
+# The site's generic <meta> description. Some product pages fall back to it
+# instead of the product text; it must never end up in the feed.
+BOILERPLATE_DESC_MARKERS = ("האתר הרשמי", "כל הקולקציה עכשיו אונליין")
+
+# og:description as written in the RAW html. The site does not escape double
+# quotes inside the attribute (content="... "Rock"N"Roll Is Not Dead" ..."), so
+# an HTML parser ends the value at the first inner quote. The value really ends
+# at a quote followed by the end of the tag or by the next attribute.
+_OG_DESC_RAW_RE = re.compile(
+    r"""<meta\b[^<]*?og:description[^<]*?\bcontent\s*=\s*"(.*?)"(?=\s*/?>|\s+[\w:-]+\s*=)"""
+    r"""|<meta\b[^<]*?\bcontent\s*=\s*"(.*?)"(?=\s+[^<]*?og:description)""",
+    re.I | re.S,
+)
+
+
+def _is_boilerplate(text: str) -> bool:
+    return not text or any(marker in text for marker in BOILERPLATE_DESC_MARKERS)
+
+
+def extract_description(soup: BeautifulSoup, raw_html: str) -> str:
+    """Return the product description, or "" if none is usable.
+
+    Order of preference:
+    1. Visible itemprop="description" element (text is parsed from the DOM,
+       so unescaped quotes can't truncate it).
+    2. og:description read from the RAW html with a quote-tolerant regex.
+       If both 1 and 2 exist, the longer (more complete) one wins.
+    3. itemprop="description" <meta content>, then og:description via the
+       parser (both can be truncated at an inner quote — last resort).
+    The site's generic Hebrew meta description is rejected at every step.
+    """
+    def usable(c):
+        c = " ".join((c or "").split())
+        return c if len(c) >= 20 and not _is_boilerplate(c) else ""
+
+    # Untruncatable sources: take the most complete one.
+    primary = []
+    for el in soup.find_all(attrs={"itemprop": "description"}):
+        if el.name != "meta":
+            primary.append(usable(el.get_text(" ", strip=True)))
+    m = _OG_DESC_RAW_RE.search(raw_html or "")
+    if m:
+        primary.append(usable(html_lib.unescape(m.group(1) or m.group(2) or "")))
+    primary = [c for c in primary if c]
+    if primary:
+        return max(primary, key=len)
+
+    # Last resort: parser-read attributes (may be cut at an inner quote).
+    fallbacks = [el.get("content", "") for el in
+                 soup.find_all("meta", attrs={"itemprop": "description"})]
+    og = soup.find("meta", property="og:description")
+    if og:
+        fallbacks.append(og.get("content", ""))
+    for c in fallbacks:
+        if usable(c):
+            return usable(c)
+    return ""
+
+
 def extract_product(session: requests.Session, url: str) -> Optional[Product]:
     """Fetch a product page and extract all available data."""
     html = fetch(session, url)
@@ -742,10 +817,7 @@ def extract_product(session: requests.Session, url: str) -> Optional[Product]:
         title = f"{title} - {color_display.upper()}"
 
     # --- Description ---
-    description = ""
-    og_desc = soup.find("meta", property="og:description")
-    if og_desc:
-        description = og_desc.get("content", "").strip()
+    description = extract_description(soup, html)
     # Trim newlines & truncate (Meta limit: 9999 chars; Google: 5000 — keep short)
     description = " ".join(description.split())[:5000]
     if not description:
@@ -802,70 +874,117 @@ def extract_product(session: requests.Session, url: str) -> Optional[Product]:
     )
 
 
+DISCOUNT_RE = re.compile(
+    r"(\d[\d,]*\.\d{2})\s*ILS\s*-\s*(\d+)\s*%\s*(\d[\d,]*\.\d{2})\s*ILS"
+)
+# A "discount" deeper than this is treated as a parsing error, not a sale.
+MAX_PLAUSIBLE_DISCOUNT = 0.80
+
+
+def _to_float(s: str) -> Optional[float]:
+    try:
+        return float(s.replace(",", "").strip())
+    except (ValueError, AttributeError):
+        return None
+
+
+def _plausible_original(original: float, current: float) -> bool:
+    """Original must be higher than current, and not absurdly so."""
+    if original is None or current is None or original <= current:
+        return False
+    if 1 - current / original > MAX_PLAUSIBLE_DISCOUNT:
+        log.warning(
+            f"  rejected implausible original price {original:.2f} "
+            f"for current {current:.2f}"
+        )
+        return False
+    return True
+
+
+def _price_scope(price_meta):
+    """The part of the page that belongs to THIS product's offer.
+
+    Product pages also render recommendation carousels ("you may also like")
+    that contain other products' prices, strikethroughs and "-N%" badges.
+    Anything outside this scope must never be used as our original price.
+    """
+    offers = price_meta.find_parent(attrs={"itemprop": "offers"})
+    if offers is not None:
+        return offers
+    # No explicit offers wrapper: climb a couple of levels from the price meta,
+    # which is enough to reach the price block without swallowing the page.
+    scope = price_meta
+    for _ in range(3):
+        if scope.parent is None or scope.parent.name in ("body", "html", "[document]"):
+            break
+        scope = scope.parent
+    return scope
+
+
 def extract_prices(soup: BeautifulSoup) -> tuple:
     """Return (price, sale_price). sale_price is None if not discounted.
 
     Strategy:
-    1. Prefer the schema.org Offer microdata (<meta itemprop="price" content="X">).
-       This is the site's own authoritative current price and is immune to
-       layout changes or promotional banner text.
-    2. Look for a separate original/list price elsewhere on the page (strikethrough
-       in HTML, or via the "X ILS - N% Y ILS" pattern). If found and higher than
-       the schema price, treat the schema price as sale_price.
-    3. Fall back to the regex approach if schema markup is missing.
+    1. The schema.org Offer microdata (<meta itemprop="price" content="X">) is the
+       authoritative CURRENT price.
+    2. An original/list price is accepted only if it is provably ours:
+       - Pattern A: an "X ILS -N% Y ILS" block anywhere on the page whose X equals
+         the schema price and whose N% is consistent with X and Y; or
+       - Pattern B: a <del>/<s> strikethrough inside this product's price scope.
+       Earlier versions took the FIRST match on the whole page, which picked up
+       discounted products from the recommendations carousel and produced fake
+       sale prices (e.g. a 300 ILS card holder "reduced" from 2325 ILS).
+    3. Fall back to regex only if schema markup is missing entirely.
     """
     # --- Step 1: Schema.org price (authoritative current price) ---
     schema_price = None
     price_meta = soup.find("meta", attrs={"itemprop": "price"})
     if price_meta and price_meta.get("content"):
-        try:
-            schema_price = float(price_meta["content"].replace(",", "").strip())
-        except (ValueError, AttributeError):
-            schema_price = None
+        schema_price = _to_float(price_meta["content"])
 
-    text = soup.get_text(" ", strip=True)
-
-    # --- Step 2: Look for a higher original price (means schema price is a sale) ---
     if schema_price is not None:
-        # Pattern A: explicit discount text like "1704 ILS -20% 2130 ILS"
-        m = re.search(
-            r"(\d[\d,]*\.\d{2})\s*ILS\s*-\s*(\d+)\s*%\s*(\d[\d,]*\.\d{2})\s*ILS",
-            text,
-        )
-        if m:
-            displayed_sale = float(m.group(1).replace(",", ""))
-            displayed_original = float(m.group(3).replace(",", ""))
-            # The schema price is the true current price; use the higher of the
-            # two for the "original" comparison if it's higher than schema price.
-            original = max(displayed_original, displayed_sale)
-            if original > schema_price:
-                return original, schema_price
-            return schema_price, None
+        # --- Pattern A: discount text whose sale figure is OUR current price ---
+        text = soup.get_text(" ", strip=True)
+        for m in DISCOUNT_RE.finditer(text):
+            shown_sale = _to_float(m.group(1))
+            pct = int(m.group(2))
+            shown_orig = _to_float(m.group(3))
+            if shown_sale is None or shown_orig is None:
+                continue
+            if abs(shown_sale - schema_price) > 0.01:
+                continue  # someone else's discount (carousel etc.)
+            actual_pct = round((1 - shown_sale / shown_orig) * 100) if shown_orig else -1
+            if abs(actual_pct - pct) > 1:
+                continue  # numbers don't belong together
+            if _plausible_original(shown_orig, schema_price):
+                return shown_orig, schema_price
 
-        # Pattern B: strikethrough HTML (<del>, <s>, or class containing "old"/"strike")
-        for el in soup.find_all(["del", "s"]):
+        # --- Pattern B: strikethrough inside this product's price block ---
+        scope = _price_scope(price_meta)
+        for el in scope.find_all(["del", "s"]):
             m = re.search(r"(\d[\d,]*\.\d{2})", el.get_text())
             if m:
-                original = float(m.group(1).replace(",", ""))
-                if original > schema_price:
+                original = _to_float(m.group(1))
+                if _plausible_original(original, schema_price):
                     return original, schema_price
 
-        # No original price visible — schema price is just the price
+        # No original price of ours visible — schema price is just the price
         return schema_price, None
 
     # --- Step 3: Fallback to pure regex if schema markup absent ---
-    m = re.search(
-        r"(\d[\d,]*\.\d{2})\s*ILS\s*-\s*(\d+)\s*%\s*(\d[\d,]*\.\d{2})\s*ILS",
-        text,
-    )
+    # Can't validate against a schema price here, so this path is best-effort.
+    text = soup.get_text(" ", strip=True)
+    m = DISCOUNT_RE.search(text)
     if m:
-        sale = float(m.group(1).replace(",", ""))
-        original = float(m.group(3).replace(",", ""))
-        return original, sale
+        sale = _to_float(m.group(1))
+        original = _to_float(m.group(3))
+        if _plausible_original(original, sale):
+            return original, sale
+        return sale, None
 
     m = re.search(r"(\d[\d,]*\.\d{2})\s*ILS", text)
     if m:
-        return float(m.group(1).replace(",", "")), None
+        return _to_float(m.group(1)), None
 
     return None, None
 
