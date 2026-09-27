@@ -147,5 +147,85 @@ print("  ✓ XML escaping is correct")
 
 print()
 print("=" * 60)
+print("TEST 7: Carousel discounts must not become our sale price")
+print("=" * 60)
+from zv_feed import extract_description, clean_text, infer_google_category, make_variant_id
+
+CAROUSEL = """
+<div class="reco">
+  <div class="tile">ZV PASS CARD HOLDER 300.00 ILS -87% 2325.00 ILS</div>
+  <div class="tile"><del>645.00 ILS</del> 115.00 ILS</div>
+</div>"""
+
+html_a = f"""<html><body><h1>keyring</h1>
+<div itemprop="offers" itemscope><meta itemprop="price" content="580.00">
+<span class="price">580.00 ILS</span></div>{CAROUSEL}</body></html>"""
+p, s = extract_prices(BeautifulSoup(html_a, "html.parser"))
+assert_eq((p, s), (580.0, None), "full price ignores carousel -N% and <del>")
+
+html_b = """<html><body><div itemprop="offers"><meta itemprop="price" content="300.00">
+</div><div class="reco">300.00 ILS -10% 2325.00 ILS</div></body></html>"""
+p, s = extract_prices(BeautifulSoup(html_b, "html.parser"))
+assert_eq((p, s), (300.0, None), "rejects discount block with inconsistent %")
+
+html_c = f"""<html><body>{CAROUSEL}<div itemprop="offers">
+<meta itemprop="price" content="1792.00">1792.00 ILS -30% 2560.00 ILS</div></body></html>"""
+p, s = extract_prices(BeautifulSoup(html_c, "html.parser"))
+assert_eq((p, s), (2560.0, 1792.0), "real sale still detected after a carousel")
+
+html_d = f"""<html><body><div itemprop="offers"><meta itemprop="price" content="1407.00">
+<del>2345.00 ILS</del> <span>1407.00 ILS</span></div>{CAROUSEL}</body></html>"""
+p, s = extract_prices(BeautifulSoup(html_d, "html.parser"))
+assert_eq((p, s), (2345.0, 1407.0), "strikethrough inside offer block")
+
+print()
+print("=" * 60)
+print("TEST 8: Descriptions with unescaped quotes / boilerplate")
+print("=" * 60)
+raw = ('<html><head><meta property="og:description" content="Hoodie with front embroidery. '
+       '- Contrasting "Rock\'N\'Roll Is Not Dead" embroidery on the front - Hood" />'
+       '</head><body><h1>x</h1></body></html>')
+d = extract_description(BeautifulSoup(raw, "html.parser"), raw)
+assert_eq(d.endswith("on the front - Hood"), True, "og:description not cut at inner quote")
+
+raw2 = ('<html><head><meta property="og:description" content="zadig & voltaire האתר הרשמי של המותג" />'
+        '</head><body><div itemprop="description">Men\'s henley t-shirt in black. - Short sleeves</div>'
+        '</body></html>')
+d2 = extract_description(BeautifulSoup(raw2, "html.parser"), raw2)
+assert_eq(d2, "Men's henley t-shirt in black. - Short sleeves", "Hebrew boilerplate rejected")
+
+raw3 = '<html><head><meta property="og:description" content="zadig & voltaire האתר הרשמי" /></head></html>'
+assert_eq(extract_description(BeautifulSoup(raw3, "html.parser"), raw3), "", "boilerplate only -> empty")
+
+raw4 = ('<html><head><meta property="og:description" content="Mid-length dress. Model is 176 cm / 5\' 9" '
+        'and is wearing a size S Composition 100% Silk" /></head></html>')
+assert_eq(extract_description(BeautifulSoup(raw4, "html.parser"), raw4).endswith("100% Silk"), True,
+          "inch mark in model height does not truncate")
+
+print()
+print("=" * 60)
+print("TEST 9: clean_text mojibake")
+print("=" * 60)
+R = "\uFFFD"
+assert_eq(clean_text(f"Long dress. {R}Long dress in linen {R}V-neck {R}Sleeveless"),
+          "Long dress. - Long dress in linen - V-neck - Sleeveless", "bullets -> ' - '")
+assert_eq(clean_text(f"{R}Voltaire{R} print on the front"), '"Voltaire" print on the front', "curly quotes")
+assert_eq(clean_text(f"{R}Rock{R}N{R}Roll Is Not Dead{R} embroidery"),
+          '"Rock\'N\'Roll Is Not Dead" embroidery', "apostrophes inside quotes")
+assert_eq(clean_text(f"wash at 20{R}C"), "wash at 20°C", "degree sign")
+
+print()
+print("=" * 60)
+print("TEST 10: GPC + colour mapping fixes")
+print("=" * 60)
+assert_eq(infer_google_category("Men > Pants & Jeans", "PABLO SHORTS ENCRE - DARK BLUE"), 207, "shorts under Pants leaf -> 207")
+assert_eq(infer_google_category("Men > Pants & Jeans", "POMA PANTS"), 204, "pants unaffected")
+assert_eq(infer_google_category("Accessories > Fragrance", "TOME 1 LA PURETE 50ML"), 479, "fragrance leaf -> 479")
+assert_eq(infer_google_category("New Arrivals > Gifts", "PARFUM ZADIG 30ML"), 479, "parfum keyword -> 479")
+assert_eq(make_variant_id("JMTS01794", "ardoise"), "JMTS01794_DARK GRAY", "ARDOISE id matches production")
+
+
+print()
+print("=" * 60)
 print("ALL TESTS PASSED ✓")
 print("=" * 60)
