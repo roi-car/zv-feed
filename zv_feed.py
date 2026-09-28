@@ -223,35 +223,62 @@ GPC_BY_KEYWORD = [
 ]
 
 
-def load_gpc_overrides(path: str = "gpc_overrides.csv") -> dict:
-    """Load manual GPC overrides from a CSV (id, google_product_category).
+def _read_override_csv(path: str, value_col: str) -> dict:
+    """Read an id -> value override CSV. Missing file = no overrides.
 
-    Lets you correct specific products without editing code. Format:
-        id,google_product_category
-        LWBA00001-ROAD,5841
-        SWCT02097-BLACK,187
-
-    Returns an empty dict if the file doesn't exist (overrides are optional).
+    Lines starting with # and blank lines are skipped BEFORE csv parsing.
+    (Previously the comment block at the top of gpc_overrides.csv became the
+    csv header row, so no GPC override could ever load.)
+    Values may contain commas; quote them in the CSV ("like, this").
     """
     import csv
     import os
     if not os.path.exists(path):
         return {}
-    overrides = {}
+    out = {}
     try:
-        with open(path, encoding="utf-8") as f:
-            reader = csv.DictReader(f)
-            for row in reader:
-                pid = (row.get("id") or "").strip()
-                gpc = (row.get("google_product_category") or "").strip()
-                if pid and gpc:
-                    try:
-                        overrides[pid] = int(gpc)
-                    except ValueError:
-                        log.warning(f"  override skipped (non-integer GPC): {pid}={gpc}")
-        log.info(f"loaded {len(overrides)} GPC overrides from {path}")
+        with open(path, encoding="utf-8-sig", newline="") as f:
+            lines = [ln for ln in f if ln.strip() and not ln.lstrip().startswith("#")]
+        for row in csv.DictReader(lines):
+            pid = (row.get("id") or "").strip()
+            val = (row.get(value_col) or "").strip()
+            if pid and val:
+                out[pid] = val
     except Exception as e:
-        log.warning(f"  could not load GPC overrides: {e}")
+        log.warning(f"  could not load {path}: {e}")
+    return out
+
+
+def load_gpc_overrides(path: str = "gpc_overrides.csv") -> dict:
+    """Manual GPC overrides (id, google_product_category), applied after inference.
+
+    Format:
+        id,google_product_category
+        LWBA00001_ROAD,5841
+    """
+    overrides = {}
+    for pid, gpc in _read_override_csv(path, "google_product_category").items():
+        try:
+            overrides[pid] = int(gpc)
+        except ValueError:
+            log.warning(f"  override skipped (non-integer GPC): {pid}={gpc}")
+    if overrides:
+        log.info(f"loaded {len(overrides)} GPC overrides from {path}")
+    return overrides
+
+
+def load_description_overrides(path: str = "description_overrides.csv") -> dict:
+    """Manual descriptions (id, description) for products the site gives no
+    usable description for. An override always wins over the scraped text.
+
+    Format:
+        id,description
+        JWSS01776_BLACK,"Women's sweatshirt in black. ..."
+    """
+    overrides = {pid: " ".join(d.split())[:5000]
+                 for pid, d in _read_override_csv(path, "description").items()}
+    if overrides:
+        log.info(f"loaded {len(overrides)} description overrides from {path}")
     return overrides
 
 
@@ -406,6 +433,11 @@ class Product:
     custom_label_2: Optional[str] = None
     custom_label_3: Optional[str] = None
     custom_label_4: Optional[str] = None
+
+    # True when the site had no usable description and we emitted the
+    # "{title} from BRAND." placeholder. Not emitted in the XML; used to log
+    # which ids still need an entry in description_overrides.csv.
+    description_is_fallback: bool = False
 
     # Feed IDs from the product page's "Complete the look" block. Not emitted in
     # feed.xml; written to the GMC supplemental TSV as related_product.
@@ -736,6 +768,10 @@ _OG_DESC_RAW_RE = re.compile(
 )
 
 
+# Anything shorter is treated as "no description" (catches name-only text).
+MIN_DESC_WORDS = 8
+
+
 def _is_boilerplate(text: str) -> bool:
     return not text or any(marker in text for marker in BOILERPLATE_DESC_MARKERS)
 
@@ -754,7 +790,11 @@ def extract_description(soup: BeautifulSoup, raw_html: str) -> str:
     """
     def usable(c):
         c = " ".join((c or "").split())
-        return c if len(c) >= 20 and not _is_boilerplate(c) else ""
+        # Some pages with no real copy expose just the product name
+        # ("sweela sweatshirt black"). Real descriptions on this site run 10+ words.
+        if len(c.split()) < MIN_DESC_WORDS or _is_boilerplate(c):
+            return ""
+        return c
 
     # Untruncatable sources: take the most complete one.
     primary = []
@@ -820,7 +860,8 @@ def extract_product(session: requests.Session, url: str) -> Optional[Product]:
     description = extract_description(soup, html)
     # Trim newlines & truncate (Meta limit: 9999 chars; Google: 5000 — keep short)
     description = " ".join(description.split())[:5000]
-    if not description:
+    description_is_fallback = not description
+    if description_is_fallback:
         description = f"{title} from {BRAND}."
     description = clean_text(description)
     title = clean_text(title)
@@ -871,6 +912,7 @@ def extract_product(session: requests.Session, url: str) -> Optional[Product]:
         availability=availability,
         google_product_category=infer_google_category(product_type, title),
         related_ids=related_ids,
+        description_is_fallback=description_is_fallback,
     )
 
 
@@ -1165,6 +1207,7 @@ def main():
 
     # Load optional GPC overrides
     gpc_overrides = load_gpc_overrides()
+    desc_overrides = load_description_overrides()
 
     # --- Discovery ---
     if args.urls:
@@ -1205,6 +1248,22 @@ def main():
                 overridden += 1
         if overridden:
             log.info(f"applied {overridden} GPC override(s)")
+
+    # --- Apply description overrides (before feed + GMC supplemental) ---
+    applied = 0
+    for p in products:
+        if p.id in desc_overrides:
+            p.description = clean_text(desc_overrides[p.id])
+            p.description_is_fallback = False
+            applied += 1
+    if applied:
+        log.info(f"applied {applied} description override(s)")
+    missing = sorted(p.id for p in products if p.description_is_fallback)
+    if missing:
+        log.warning(
+            f"{len(missing)} product(s) have no usable site description and no "
+            f"entry in description_overrides.csv: {', '.join(missing)}"
+        )
 
     # --- Self-host images (Fastmag CDN robots.txt blocks Google) ---
     # Only on real full runs writing into docs/: --limit/--urls test runs must

@@ -227,5 +227,34 @@ assert_eq(make_variant_id("JMTS01794", "ardoise"), "JMTS01794_DARK GRAY", "ARDOI
 
 print()
 print("=" * 60)
+print("TEST 11: Name-only descriptions + override CSVs")
+print("=" * 60)
+import os, tempfile
+from zv_feed import load_description_overrides, load_gpc_overrides
+
+raw4 = ('<html><head><meta property="og:description" content="zadig & voltaire האתר הרשמי" /></head>'
+        '<body><div itemprop="description">sweela sweatshirt black</div></body></html>')
+assert_eq(extract_description(BeautifulSoup(raw4, "html.parser"), raw4), "", "name-only description rejected")
+
+tmp = tempfile.mkdtemp()
+dpath = os.path.join(tmp, "d.csv")
+with open(dpath, "w", encoding="utf-8") as f:
+    f.write('# comment line\n#\nid,description\n'
+            'OWLI01099_BLACK,"Gloves in black. - Soft, warm hand feel"\n'
+            'KWSW03101_HEATHER GREY,Sweater with space in id\n')
+d = load_description_overrides(dpath)
+assert_eq(d.get("OWLI01099_BLACK"), "Gloves in black. - Soft, warm hand feel", "quoted value with comma")
+assert_eq("KWSW03101_HEATHER GREY" in d, True, "id with space in colour")
+
+gpath = os.path.join(tmp, "g.csv")
+with open(gpath, "w", encoding="utf-8") as f:
+    f.write('# Manual GPC overrides\n# more comments\nid,google_product_category\nLWBA00001_ROAD,5841\n# LWBA9_X,1\n')
+assert_eq(load_gpc_overrides(gpath), {"LWBA00001_ROAD": 5841}, "GPC CSV with comment header now loads")
+assert_eq(load_description_overrides(os.path.join(tmp, "missing.csv")), {}, "missing file -> no overrides")
+assert_eq(len(load_description_overrides("description_overrides.csv")), 7, "repo CSV has the 7 seeded ids")
+
+
+print()
+print("=" * 60)
 print("ALL TESTS PASSED ✓")
 print("=" * 60)

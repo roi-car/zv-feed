@@ -1,0 +1,17 @@
+# Manual product descriptions — applied AFTER scraping, and always win.
+# Use for products whose page has no usable description (the scraper logs
+# "no usable site description" with the ids that need an entry here).
+#
+# Format: id,description   (quote the description — it usually contains commas)
+# The id must match g:id in feed.xml exactly, including spaces in colours.
+#
+# Seeded 27 Sep 2026 from Natalie's 10 Sep Meta feed. Have her confirm the
+# specific claims (materials, movement, fit, packaging) before relying on them.
+id,description
+JWSS01776_BLACK,Women's sweatshirt in black. Description & details - Round neckline - Long sleeves with ribbed cuffs - Relaxed fit - Signature Zadig&Voltaire finish Choose your usual size.
+KWCO01555_BLACK,Women's jacket in black. Description & details - Structured jacket - Front fastening - Long sleeves - Straight cut - Signature Zadig&Voltaire finish Choose your usual size.
+KWSW03101_HEATHER GREY,Women's sweater in heather grey. Description & details - Knitted sweater with Amour intarsia motif - Round neckline - Long sleeves - Relaxed fit Choose your usual size.
+JMTN01678_BLACK,Men's henley t-shirt in black. Description & details - Henley neckline with button placket - Short sleeves - Regular fit - Signature Zadig&Voltaire finish Choose your usual size.
+LWBA04331_BROWNIE,Mini patent leather shoulder bag in brownie. Description & details - Mini format shoulder bag - Patent finish - Adjustable shoulder strap - Main compartment with secure closure - Signature Zadig&Voltaire hardware
+OWLI01099_BLACK,"Zadig&Voltaire gloves in black. Description & details - Signature Zadig&Voltaire design - Soft, warm hand feel - Iconic branding detail - Presented in a Zadig&Voltaire gift box"
+OWWT00130_SILVER,Voltaire R&R watch in silver. Description & details - Stainless steel case - Signature Zadig&Voltaire dial - Quartz movement - Adjustable strap - Presented in a Zadig&Voltaire box
