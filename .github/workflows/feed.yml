@@ -40,7 +40,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/feed.xml docs/sitemap.xml docs/gmc_supplemental.tsv docs/.nojekyll
-          git add -A docs/img 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to feed.xml — skipping commit"
           else
