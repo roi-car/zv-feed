@@ -1,0 +1,15 @@
+name: One-off cleanup
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  cleanup:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git rm -r -q docs/img
+          git commit -m "Remove self-hosted images (Fastmag CDN now open to Googlebot)"
+          git push
