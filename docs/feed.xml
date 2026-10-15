@@ -4,7 +4,7 @@
   <title>Zadig &amp; Voltaire Israel Product Feed</title>
   <link>https://www.zadigetvoltaire.co.il</link>
   <description>Auto-generated catalog feed for Meta and Google Merchant Center</description>
-  <lastBuildDate>Wed, 14 Oct 2026 09:58:50 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 09:32:14 +0000</lastBuildDate>
   <item>
     <g:id>KWSW03037_BLACK</g:id>
     <g:item_group_id>KWSW03037</g:item_group_id>
@@ -172,33 +172,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>JWTS02935_CARBONE</g:id>
-    <g:item_group_id>JWTS02935</g:item_group_id>
-    <title>ALYS T-SHIRT CARBONE</title>
-    <description>Short-sleeved crew neck t-shirt with rhinestones on the front and back. T-shirt Rhinestones on the front and back Crew neck Short sleeves Model is 176 cm and is wearing a size S Composition 50% Polyester* 30% Cotton** 20% Linen *Contains 50% recycled polyester Care Machine-wash inside out on a 30°C delicate cycle with similar colours Air dry Iron inside out at a maximum of 110°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/t-shirts/jwts02935,carbone,alys-t-shirt.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02935/carbone/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02935/carbone/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02935/carbone/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02935/carbone/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>540.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Carbone</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Ready To Wear &gt; T-Shirts</g:product_type>
-    <g:google_product_category>212</g:google_product_category>
-    <g:mpn>JWTS02935</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>RWOW01280_MEDIUM GREY</g:id>
     <g:item_group_id>RWOW01280</g:item_group_id>
     <title>VERAM LEATHER JACKET MEDIUM GREY</title>
@@ -219,6 +192,33 @@
     <g:product_type>Ready To Wear &gt; Blazers &amp; Jackets</g:product_type>
     <g:google_product_category>5598</g:google_product_category>
     <g:mpn>RWOW01280</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>JWTS02935_CARBONE</g:id>
+    <g:item_group_id>JWTS02935</g:item_group_id>
+    <title>ALYS T-SHIRT CARBONE</title>
+    <description>Short-sleeved crew neck t-shirt with rhinestones on the front and back. T-shirt Rhinestones on the front and back Crew neck Short sleeves Model is 176 cm and is wearing a size S Composition 50% Polyester* 30% Cotton** 20% Linen *Contains 50% recycled polyester Care Machine-wash inside out on a 30°C delicate cycle with similar colours Air dry Iron inside out at a maximum of 110°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/t-shirts/jwts02935,carbone,alys-t-shirt.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02935/carbone/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02935/carbone/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02935/carbone/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02935/carbone/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>540.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Carbone</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Ready To Wear &gt; T-Shirts</g:product_type>
+    <g:google_product_category>212</g:google_product_category>
+    <g:mpn>JWTS02935</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -476,33 +476,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>KWCA01714_BLUE NAVY</g:id>
-    <g:item_group_id>KWCA01714</g:item_group_id>
-    <title>LUCYLA CARDIGAN MARINE - BLUE NAVY</title>
-    <description>A refined military-inspired knit with a classic Parisian feel. This crew-neck cardigan is defined by polished gold-tone buttons, shoulder tabs and utility-inspired patch pockets. - Crew neck - Long sleeves - Front button fastening - Gold-tone button detailing - Shoulder tabs with button accents - Four patch pockets with button closures - Ribbed cuffs and hem - Structured, slightly relaxed silhouette This item fits to size. Choose your usual size. Composition 90% wool*, 10% cashmere** *RWS certified wool **Cashmere fibres from an animal-friendly farm</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/sweaters+%26+cardigans/kwca01714,marine,lucyla-cardigan.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01714/marine/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01714/marine/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01714/marine/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01714/marine/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>1900.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Blue Navy</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Ready To Wear &gt; Sweaters &amp; Cardigans</g:product_type>
-    <g:google_product_category>212</g:google_product_category>
-    <g:mpn>KWCA01714</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>WWCO01267_LIGHT GREY</g:id>
     <g:item_group_id>WWCO01267</g:item_group_id>
     <title>FAUNE COAT LIGHT GREY</title>
@@ -523,6 +496,33 @@
     <g:product_type>Ready To Wear &gt; Blazers &amp; Jackets</g:product_type>
     <g:google_product_category>5598</g:google_product_category>
     <g:mpn>WWCO01267</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>KWCA01714_BLUE NAVY</g:id>
+    <g:item_group_id>KWCA01714</g:item_group_id>
+    <title>LUCYLA CARDIGAN MARINE - BLUE NAVY</title>
+    <description>A refined military-inspired knit with a classic Parisian feel. This crew-neck cardigan is defined by polished gold-tone buttons, shoulder tabs and utility-inspired patch pockets. - Crew neck - Long sleeves - Front button fastening - Gold-tone button detailing - Shoulder tabs with button accents - Four patch pockets with button closures - Ribbed cuffs and hem - Structured, slightly relaxed silhouette This item fits to size. Choose your usual size. Composition 90% wool*, 10% cashmere** *RWS certified wool **Cashmere fibres from an animal-friendly farm</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/sweaters+%26+cardigans/kwca01714,marine,lucyla-cardigan.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01714/marine/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01714/marine/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01714/marine/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01714/marine/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>1900.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Blue Navy</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Ready To Wear &gt; Sweaters &amp; Cardigans</g:product_type>
+    <g:google_product_category>212</g:google_product_category>
+    <g:mpn>KWCA01714</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -915,34 +915,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>WWOW01764_GOLD</g:id>
-    <g:item_group_id>WWOW01764</g:item_group_id>
-    <title>LUXILO JACKET GOLD</title>
-    <description>Short long-sleeved sequin jacket. Short jacket Sequins Classic collar Button fastening Long sleeves Model is 176 cm and is wearing a size S This item fits to size. Choose your usual size. Composition Main material: 100% Polyester* *Recycled polyester fibers Care This garment should be dry-cleaned only.</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/blazers+%26+jackets/wwow01764,gold,luxilo-jacket.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwow01764/gold/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwow01764/gold/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwow01764/gold/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwow01764/gold/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwow01764/gold/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>3580.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Gold</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Ready To Wear &gt; Blazers &amp; Jackets</g:product_type>
-    <g:google_product_category>5598</g:google_product_category>
-    <g:mpn>WWOW01764</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>WWSK01651_BLACK</g:id>
     <g:item_group_id>WWSK01651</g:item_group_id>
     <title>JARVIS SKIRT BLACK</title>
@@ -963,6 +935,34 @@
     <g:product_type>Ready To Wear &gt; Dresses &amp; Skirts</g:product_type>
     <g:google_product_category>1581</g:google_product_category>
     <g:mpn>WWSK01651</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>WWOW01764_GOLD</g:id>
+    <g:item_group_id>WWOW01764</g:item_group_id>
+    <title>LUXILO JACKET GOLD</title>
+    <description>Short long-sleeved sequin jacket. Short jacket Sequins Classic collar Button fastening Long sleeves Model is 176 cm and is wearing a size S This item fits to size. Choose your usual size. Composition Main material: 100% Polyester* *Recycled polyester fibers Care This garment should be dry-cleaned only.</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/blazers+%26+jackets/wwow01764,gold,luxilo-jacket.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwow01764/gold/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwow01764/gold/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwow01764/gold/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwow01764/gold/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwow01764/gold/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>3580.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Gold</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Ready To Wear &gt; Blazers &amp; Jackets</g:product_type>
+    <g:google_product_category>5598</g:google_product_category>
+    <g:mpn>WWOW01764</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -1054,6 +1054,33 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
+    <g:id>WWCO01266_DARK CHOCOLATE</g:id>
+    <g:item_group_id>WWCO01266</g:item_group_id>
+    <title>FLEUR COAT DARK CHOCOLATE</title>
+    <description>Mid-length coat in faux fur, front patch pockets, long sleeves and button fastening. - Mid-length coat in faux fur - Classic collar - Button fastening - Front patch pockets - Long sleeves Model is 176 cm and is wearing a size S This item fits to size. Choose your usual size. Composition 80% Modacrylic 20% Polyester* *Recycled polyester fibers Care This garment should be dry-cleaned only.</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/blazers+%26+jackets/wwco01266,dark+chocolate,fleur-coat.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwco01266/dark+chocolate/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwco01266/dark+chocolate/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwco01266/dark+chocolate/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwco01266/dark+chocolate/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>2180.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Dark Chocolate</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Ready To Wear &gt; Blazers &amp; Jackets</g:product_type>
+    <g:google_product_category>5598</g:google_product_category>
+    <g:mpn>WWCO01266</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
     <g:id>WWSH02308_BLACK</g:id>
     <g:item_group_id>WWSH02308</g:item_group_id>
     <title>TYRICA SHIRT BLACK</title>
@@ -1074,33 +1101,6 @@
     <g:product_type>Ready To Wear &gt; Shirts &amp; Tops</g:product_type>
     <g:google_product_category>212</g:google_product_category>
     <g:mpn>WWSH02308</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
-    <g:id>WWCO01266_DARK CHOCOLATE</g:id>
-    <g:item_group_id>WWCO01266</g:item_group_id>
-    <title>FLEUR COAT DARK CHOCOLATE</title>
-    <description>Mid-length coat in faux fur, front patch pockets, long sleeves and button fastening. - Mid-length coat in faux fur - Classic collar - Button fastening - Front patch pockets - Long sleeves Model is 176 cm and is wearing a size S This item fits to size. Choose your usual size. Composition 80% Modacrylic 20% Polyester* *Recycled polyester fibers Care This garment should be dry-cleaned only.</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/blazers+%26+jackets/wwco01266,dark+chocolate,fleur-coat.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwco01266/dark+chocolate/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwco01266/dark+chocolate/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwco01266/dark+chocolate/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwco01266/dark+chocolate/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>2180.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Dark Chocolate</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Ready To Wear &gt; Blazers &amp; Jackets</g:product_type>
-    <g:google_product_category>5598</g:google_product_category>
-    <g:mpn>WWCO01266</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -2568,33 +2568,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>WMOW01432_LATTE</g:id>
-    <g:item_group_id>WMOW01432</g:item_group_id>
-    <title>KONNICE JACKET LATTE</title>
-    <description>Zip-up jacket, velvet collar, wings jacron patch signature, patch pockets and rivet details. 100% cotton jacket Velvet collar Wings jacron patch signature Zip fastening Patch pockets Rivet details Long sleeves Model is 184 cm and is wearing a size M This item fits to size. Choose your usual size. Composition Main material: 100% Cotton* *Cotton fibers from organic farming Care Do not wash (machine or dry clean) Do not iron or steam this product Do not tumble dry Clean gently with a sponge dampened with cold water Reproof with a special wax every year</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/men/coats+%26+jackets/wmow01432,latte,konnice-jacket.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01432/latte/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01432/latte/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01432/latte/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01432/latte/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>1700.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Latte</g:color>
-    <g:gender>male</g:gender>
-    <g:product_type>Men &gt; Coats &amp; Jackets</g:product_type>
-    <g:google_product_category>5598</g:google_product_category>
-    <g:mpn>WMOW01432</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>WMOW01445_DARK CHOCOLATE</g:id>
     <g:item_group_id>WMOW01445</g:item_group_id>
     <title>BASES VELVET JACKET DARK CHOCOLATE</title>
@@ -2615,6 +2588,33 @@
     <g:product_type>Men &gt; Coats &amp; Jackets</g:product_type>
     <g:google_product_category>5598</g:google_product_category>
     <g:mpn>WMOW01445</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>WMOW01432_LATTE</g:id>
+    <g:item_group_id>WMOW01432</g:item_group_id>
+    <title>KONNICE JACKET LATTE</title>
+    <description>Zip-up jacket, velvet collar, wings jacron patch signature, patch pockets and rivet details. 100% cotton jacket Velvet collar Wings jacron patch signature Zip fastening Patch pockets Rivet details Long sleeves Model is 184 cm and is wearing a size M This item fits to size. Choose your usual size. Composition Main material: 100% Cotton* *Cotton fibers from organic farming Care Do not wash (machine or dry clean) Do not iron or steam this product Do not tumble dry Clean gently with a sponge dampened with cold water Reproof with a special wax every year</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/men/coats+%26+jackets/wmow01432,latte,konnice-jacket.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01432/latte/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01432/latte/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01432/latte/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01432/latte/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>1700.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Latte</g:color>
+    <g:gender>male</g:gender>
+    <g:product_type>Men &gt; Coats &amp; Jackets</g:product_type>
+    <g:google_product_category>5598</g:google_product_category>
+    <g:mpn>WMOW01432</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -2706,33 +2706,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>KMCA01304_HEATHER GREY</g:id>
-    <g:item_group_id>KMCA01304</g:item_group_id>
-    <title>GWENO CARDIGAN GRIS CHINE CLAI - HEATHER GREY</title>
-    <description>Zip-up bomber cardigan with ZV embroidery. Wool and cashmere cardigan ZV embroidery on the front Officer collar Zip fastening Long sleeves Bomber cut Model is 184 cm and is wearing a size M Composition 90% Wool* 10% Cashmere** Care Hand-wash or machine-wash on a 20°C wool cycle with a maximum spin speed of 400 rpm Do not twist Air dry flat Iron inside out at a maximum of 110°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/men/sweaters+%26+cardigans/kmca01304,gris+chine+clai,gweno-cardigan.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01304/gris+chine+clai/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01304/gris+chine+clai/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01304/gris+chine+clai/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01304/gris+chine+clai/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>1980.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Heather Grey</g:color>
-    <g:gender>male</g:gender>
-    <g:product_type>Men &gt; Sweaters &amp; Cardigans</g:product_type>
-    <g:google_product_category>212</g:google_product_category>
-    <g:mpn>KMCA01304</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>RMOW01125_MOSS</g:id>
     <g:item_group_id>RMOW01125</g:item_group_id>
     <title>BASE SUEDE JACKET MOSS</title>
@@ -2753,6 +2726,33 @@
     <g:product_type>Men &gt; Coats &amp; Jackets</g:product_type>
     <g:google_product_category>5598</g:google_product_category>
     <g:mpn>RMOW01125</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>KMCA01304_HEATHER GREY</g:id>
+    <g:item_group_id>KMCA01304</g:item_group_id>
+    <title>GWENO CARDIGAN GRIS CHINE CLAI - HEATHER GREY</title>
+    <description>Zip-up bomber cardigan with ZV embroidery. Wool and cashmere cardigan ZV embroidery on the front Officer collar Zip fastening Long sleeves Bomber cut Model is 184 cm and is wearing a size M Composition 90% Wool* 10% Cashmere** Care Hand-wash or machine-wash on a 20°C wool cycle with a maximum spin speed of 400 rpm Do not twist Air dry flat Iron inside out at a maximum of 110°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/men/sweaters+%26+cardigans/kmca01304,gris+chine+clai,gweno-cardigan.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01304/gris+chine+clai/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01304/gris+chine+clai/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01304/gris+chine+clai/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01304/gris+chine+clai/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>1980.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Heather Grey</g:color>
+    <g:gender>male</g:gender>
+    <g:product_type>Men &gt; Sweaters &amp; Cardigans</g:product_type>
+    <g:google_product_category>212</g:google_product_category>
+    <g:mpn>KMCA01304</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -3504,35 +3504,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>LWBA04303_BLACK</g:id>
-    <g:item_group_id>LWBA04303</g:item_group_id>
-    <title>ROCK PERFORATED CLUTCH BLACK</title>
-    <description>Perforated grained leather clutch with double leather and metal chain and rhinestone-embellished wings. Rock clutch in perforated grained leather Two removable intertwined leather and metal chains Flap with zip and magnetic closure Small zipped back pocket and interior patch pocket Signature rhinestone-embellished wings Carried by hand, on the shoulder or cross-body 27 x 13.5 x 2 cm. Shoulder strap/chain height: 33 - 57 cm Composition Material: 100% Cow leather Care Protect your leather item from humidity and any source of heat (radiator, sun) Avoid your item coming into contact with water Regularly care for your leather item using a colourless nourishing cream for leather, suitable for leather goods Ensure you wear your item with similar colours Avoid overfilling your bag to ensure its durability In case of stains, contact a leather professional</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/bags/shoulder+bags/lwba04303,black,rock-perforated-clutch.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04303/black/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04303/black/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04303/black/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04303/black/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04303/black/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>1780.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Black</g:color>
-    <g:size>U</g:size>
-    <g:gender>female</g:gender>
-    <g:product_type>Bags &gt; Shoulder Bags</g:product_type>
-    <g:google_product_category>3032</g:google_product_category>
-    <g:mpn>LWBA04303</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>LWBA04457_BLACK GOLD</g:id>
     <g:item_group_id>LWBA04457</g:item_group_id>
     <title>JIM MINI SUEDE BAG BLACK GOLD</title>
@@ -3554,6 +3525,35 @@
     <g:product_type>Bags &gt; Shoulder Bags</g:product_type>
     <g:google_product_category>3032</g:google_product_category>
     <g:mpn>LWBA04457</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>LWBA04303_BLACK</g:id>
+    <g:item_group_id>LWBA04303</g:item_group_id>
+    <title>ROCK PERFORATED CLUTCH BLACK</title>
+    <description>Perforated grained leather clutch with double leather and metal chain and rhinestone-embellished wings. Rock clutch in perforated grained leather Two removable intertwined leather and metal chains Flap with zip and magnetic closure Small zipped back pocket and interior patch pocket Signature rhinestone-embellished wings Carried by hand, on the shoulder or cross-body 27 x 13.5 x 2 cm. Shoulder strap/chain height: 33 - 57 cm Composition Material: 100% Cow leather Care Protect your leather item from humidity and any source of heat (radiator, sun) Avoid your item coming into contact with water Regularly care for your leather item using a colourless nourishing cream for leather, suitable for leather goods Ensure you wear your item with similar colours Avoid overfilling your bag to ensure its durability In case of stains, contact a leather professional</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/bags/shoulder+bags/lwba04303,black,rock-perforated-clutch.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04303/black/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04303/black/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04303/black/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04303/black/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04303/black/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>1780.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Black</g:color>
+    <g:size>U</g:size>
+    <g:gender>female</g:gender>
+    <g:product_type>Bags &gt; Shoulder Bags</g:product_type>
+    <g:google_product_category>3032</g:google_product_category>
+    <g:mpn>LWBA04303</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -3968,35 +3968,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>LWBA04322_WOOD</g:id>
-    <g:item_group_id>LWBA04322</g:item_group_id>
-    <title>JACK BAG WOOD</title>
-    <description>Suede leather bag with signature clasp, featuring two compartments, one handle and adjustable strap. - Suede leather bag - Adjustable grained leather handle - Adjustable and removable shoulder strap - Magnetic closure at the back - Turnlock clasp, signed with wings and crafted like jewellery - Two compartments - Interior zipped pocket - Carried by hand, shoulder or crossbody 36 x 25 x 13.5 cm. Shoulder strap/chain height: 26 - 48.5 cm. Handle height: 12 - 48.5 cm Composition 100% COW LEATHER</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/bags/shoulder+bags/lwba04322,wood,jack-bag.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04322/wood/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04322/wood/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04322/wood/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04322/wood/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04322/wood/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>2380.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Wood</g:color>
-    <g:size>U</g:size>
-    <g:gender>female</g:gender>
-    <g:product_type>Bags &gt; Shoulder Bags</g:product_type>
-    <g:google_product_category>3032</g:google_product_category>
-    <g:mpn>LWBA04322</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>LWBA04330_WOOD</g:id>
     <g:item_group_id>LWBA04330</g:item_group_id>
     <title>JACK MINI WAXY SUEDE BAG WOOD</title>
@@ -4018,6 +3989,35 @@
     <g:product_type>Bags &gt; Shoulder Bags</g:product_type>
     <g:google_product_category>3032</g:google_product_category>
     <g:mpn>LWBA04330</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>LWBA04322_WOOD</g:id>
+    <g:item_group_id>LWBA04322</g:item_group_id>
+    <title>JACK BAG WOOD</title>
+    <description>Suede leather bag with signature clasp, featuring two compartments, one handle and adjustable strap. - Suede leather bag - Adjustable grained leather handle - Adjustable and removable shoulder strap - Magnetic closure at the back - Turnlock clasp, signed with wings and crafted like jewellery - Two compartments - Interior zipped pocket - Carried by hand, shoulder or crossbody 36 x 25 x 13.5 cm. Shoulder strap/chain height: 26 - 48.5 cm. Handle height: 12 - 48.5 cm Composition 100% COW LEATHER</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/bags/shoulder+bags/lwba04322,wood,jack-bag.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04322/wood/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04322/wood/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04322/wood/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04322/wood/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba04322/wood/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>2380.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Wood</g:color>
+    <g:size>U</g:size>
+    <g:gender>female</g:gender>
+    <g:product_type>Bags &gt; Shoulder Bags</g:product_type>
+    <g:google_product_category>3032</g:google_product_category>
+    <g:mpn>LWBA04322</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -6008,34 +6008,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>LWSG00001_BROWNIE</g:id>
-    <g:item_group_id>LWSG00001</g:item_group_id>
-    <title>ZV PASS CARD HOLDER BROWNIE</title>
-    <description>Women's grained leather card holder with wings charm. - Women's ZV Pass card holder in grained leather - Metal mirror wings charm - 2 slots - Embossed Zadig&amp;Voltaire branding Width x Height : 10.5 x 7.5 cm. Composition 100% CALF LEATHER Care Do not expose your item to a source of heat or to sunlight for a prolonged period. In the event of accidental exposure to water, leave your item to dry at room temperature, away from direct light. Avoid routinely overloading your handbag or clutch. To prolong its life, store your item in a dust bag and pad it with tissue paper to maintain its shape. To maintain the shine of your smooth or grained leather item, use a leather cream or polish.</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/accessories/iconics/lwsg00001,brownie,zv-pass-card-holder.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsg00001/brownie/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsg00001/brownie/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsg00001/brownie/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsg00001/brownie/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>300.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Brownie</g:color>
-    <g:size>U</g:size>
-    <g:gender>female</g:gender>
-    <g:product_type>Accessories &gt; Iconics</g:product_type>
-    <g:google_product_category>2668</g:google_product_category>
-    <g:mpn>LWSG00001</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>LWSG00001_BLACK GOLD</g:id>
     <g:item_group_id>LWSG00001</g:item_group_id>
     <title>ZV PASS CARD HOLDER NOIR GOLD - BLACK GOLD</title>
@@ -6051,6 +6023,34 @@
     <g:price>300.00 ILS</g:price>
     <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
     <g:color>Black Gold</g:color>
+    <g:size>U</g:size>
+    <g:gender>female</g:gender>
+    <g:product_type>Accessories &gt; Iconics</g:product_type>
+    <g:google_product_category>2668</g:google_product_category>
+    <g:mpn>LWSG00001</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>LWSG00001_BROWNIE</g:id>
+    <g:item_group_id>LWSG00001</g:item_group_id>
+    <title>ZV PASS CARD HOLDER BROWNIE</title>
+    <description>Women's grained leather card holder with wings charm. - Women's ZV Pass card holder in grained leather - Metal mirror wings charm - 2 slots - Embossed Zadig&amp;Voltaire branding Width x Height : 10.5 x 7.5 cm. Composition 100% CALF LEATHER Care Do not expose your item to a source of heat or to sunlight for a prolonged period. In the event of accidental exposure to water, leave your item to dry at room temperature, away from direct light. Avoid routinely overloading your handbag or clutch. To prolong its life, store your item in a dust bag and pad it with tissue paper to maintain its shape. To maintain the shine of your smooth or grained leather item, use a leather cream or polish.</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/accessories/iconics/lwsg00001,brownie,zv-pass-card-holder.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsg00001/brownie/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsg00001/brownie/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsg00001/brownie/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsg00001/brownie/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>300.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Brownie</g:color>
     <g:size>U</g:size>
     <g:gender>female</g:gender>
     <g:product_type>Accessories &gt; Iconics</g:product_type>
@@ -7107,6 +7107,35 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
+    <g:id>WWJE01328_LIGHT BLUE</g:id>
+    <g:item_group_id>WWJE01328</g:item_group_id>
+    <title>ELI JEANS LIGHT BLUE</title>
+    <description>Loose-fit multi-pocket jeans. - 100% cotton jeans - Patch pockets and ticket pocket - Loose fit - Mid-rise waist Model is 178 cm and is wearing a size 26 This item has a loose fit. For a more fitted look, choose one size down from your usual size. Composition 100% COTTON* Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 150°C, or in case of customised details, at a maximum of 110°C avoiding the customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/last+chance/women/wwje01328,light+blue,eli-jeans.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje01328/light+blue/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje01328/light+blue/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje01328/light+blue/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje01328/light+blue/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje01328/light+blue/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>1185.00 ILS</g:price>
+    <g:sale_price>711.00 ILS</g:sale_price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Light Blue</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Last Chance &gt; Women</g:product_type>
+    <g:google_product_category>204</g:google_product_category>
+    <g:mpn>WWJE01328</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
     <g:id>LWBA04257_POWER</g:id>
     <g:item_group_id>LWBA04257</g:item_group_id>
     <title>ANGEL TOTE XS BAG POWER</title>
@@ -7130,35 +7159,6 @@
     <g:product_type>Last Chance &gt; Bags</g:product_type>
     <g:google_product_category>3032</g:google_product_category>
     <g:mpn>LWBA04257</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
-    <g:id>WWJE01328_LIGHT BLUE</g:id>
-    <g:item_group_id>WWJE01328</g:item_group_id>
-    <title>ELI JEANS LIGHT BLUE</title>
-    <description>Loose-fit multi-pocket jeans. - 100% cotton jeans - Patch pockets and ticket pocket - Loose fit - Mid-rise waist Model is 178 cm and is wearing a size 26 This item has a loose fit. For a more fitted look, choose one size down from your usual size. Composition 100% COTTON* Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 150°C, or in case of customised details, at a maximum of 110°C avoiding the customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/last+chance/women/wwje01328,light+blue,eli-jeans.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje01328/light+blue/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje01328/light+blue/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje01328/light+blue/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje01328/light+blue/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje01328/light+blue/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>1185.00 ILS</g:price>
-    <g:sale_price>711.00 ILS</g:sale_price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Light Blue</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Last Chance &gt; Women</g:product_type>
-    <g:google_product_category>204</g:google_product_category>
-    <g:mpn>WWJE01328</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -7758,35 +7758,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>JWTS02836_WHITE</g:id>
-    <g:item_group_id>JWTS02836</g:item_group_id>
-    <title>IO T-SHIRT WHITE</title>
-    <description>Short long-sleeved t-shirt with round neck featuring print and rhinestones. - T-shirt in 100% cotton - Print with rhinestones - Round neck - Long sleeves Model is 177 cm and is wearing a size S This item fits to size. Choose your usual size. Composition 100% COTTON** **Cotton fibers from organic farming Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/last+chance/women/jwts02836,white,io-t-shirt.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02836/white/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02836/white/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02836/white/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02836/white/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02836/white/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>1270.00 ILS</g:price>
-    <g:sale_price>762.00 ILS</g:sale_price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>White</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Last Chance &gt; Women</g:product_type>
-    <g:google_product_category>212</g:google_product_category>
-    <g:mpn>JWTS02836</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>WWPA01907_SIXTINE</g:id>
     <g:item_group_id>WWPA01907</g:item_group_id>
     <title>POMA TROUSERS SIXTINE</title>
@@ -7808,6 +7779,35 @@
     <g:product_type>Last Chance &gt; Women</g:product_type>
     <g:google_product_category>204</g:google_product_category>
     <g:mpn>WWPA01907</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>JWTS02836_WHITE</g:id>
+    <g:item_group_id>JWTS02836</g:item_group_id>
+    <title>IO T-SHIRT WHITE</title>
+    <description>Short long-sleeved t-shirt with round neck featuring print and rhinestones. - T-shirt in 100% cotton - Print with rhinestones - Round neck - Long sleeves Model is 177 cm and is wearing a size S This item fits to size. Choose your usual size. Composition 100% COTTON** **Cotton fibers from organic farming Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/last+chance/women/jwts02836,white,io-t-shirt.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02836/white/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02836/white/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02836/white/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02836/white/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02836/white/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>1270.00 ILS</g:price>
+    <g:sale_price>762.00 ILS</g:sale_price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>White</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Last Chance &gt; Women</g:product_type>
+    <g:google_product_category>212</g:google_product_category>
+    <g:mpn>JWTS02836</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -7846,6 +7846,33 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
+    <g:id>RWBL01091_DARK CHOCOLATE</g:id>
+    <g:item_group_id>RWBL01091</g:item_group_id>
+    <title>VANILLE SUEDE LEATHER BLAZER DARK CHOCOLATE</title>
+    <description>Oversized structured double-breasted suede leather blazer. Oversized suede leather blazer Double-breasted fastening Structured cut Model is 175 cm and is wearing a size S Composition 100% Cow crust Care This garment should be cared for by a leather professional.</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/women/rwbl01091,dark+chocolate,vanille-suede-leather-blazer.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwbl01091/dark+chocolate/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwbl01091/dark+chocolate/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwbl01091/dark+chocolate/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwbl01091/dark+chocolate/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>2900.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Dark Chocolate</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>New Arrivals &gt; Women</g:product_type>
+    <g:google_product_category>5598</g:google_product_category>
+    <g:mpn>RWBL01091</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
     <g:id>RWOW01289_COGNAC</g:id>
     <g:item_group_id>RWOW01289</g:item_group_id>
     <title>LESSA SUEDE JACKET COGNAC</title>
@@ -7866,33 +7893,6 @@
     <g:product_type>New Arrivals &gt; Women</g:product_type>
     <g:google_product_category>5598</g:google_product_category>
     <g:mpn>RWOW01289</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
-    <g:id>RWBL01091_DARK CHOCOLATE</g:id>
-    <g:item_group_id>RWBL01091</g:item_group_id>
-    <title>VANILLE SUEDE LEATHER BLAZER DARK CHOCOLATE</title>
-    <description>Oversized structured double-breasted suede leather blazer. Oversized suede leather blazer Double-breasted fastening Structured cut Model is 175 cm and is wearing a size S Composition 100% Cow crust Care This garment should be cared for by a leather professional.</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/women/rwbl01091,dark+chocolate,vanille-suede-leather-blazer.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwbl01091/dark+chocolate/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwbl01091/dark+chocolate/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwbl01091/dark+chocolate/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwbl01091/dark+chocolate/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>2900.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Dark Chocolate</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>New Arrivals &gt; Women</g:product_type>
-    <g:google_product_category>5598</g:google_product_category>
-    <g:mpn>RWBL01091</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -7959,6 +7959,35 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
+    <g:id>LWBA03975_DEEP PURPLE</g:id>
+    <g:item_group_id>LWBA03975</g:item_group_id>
+    <title>ROCK MINI CLUTCH DEEP PURPLE</title>
+    <description>Grained leather clutch with double leather and metal chains and rhinestone-adorned wings. - Rock Nano Pochette in grained leather - Two removable chains interwoven with leather and metal - Flap with zip and magnetic closure - Small zipped back pocket and interior patch pocket - Signature wings adorned with rhinestones - Can be carried by hand, shoulder or cross-body - Can hold a mobile phone with a dimension of 6.1 inches or less (e.g. can hold an iPhone and iPhone Pro 12/13/14/15/16) 19 x 11 cm. Chain strap height: 21 cm and 61 cm Composition 100% COW LEATHER Care - Protect your leather item from humidity and any source of heat (radiator, sun) - Avoid your item coming into contact with water - Regularly care for your leather item using a colourless nourishing cream for leather, suitable for leather goods - Ensure you wear your item with similar colours - Avoid overfilling your bag to ensure its durability - In case of stains, contact a leather professional</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/bags/lwba03975,deep+purple,rock-mini-clutch.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba03975/deep+purple/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba03975/deep+purple/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba03975/deep+purple/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba03975/deep+purple/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba03975/deep+purple/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>1180.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Deep Purple</g:color>
+    <g:size>U</g:size>
+    <g:gender>female</g:gender>
+    <g:product_type>New Arrivals &gt; Bags</g:product_type>
+    <g:google_product_category>3032</g:google_product_category>
+    <g:mpn>LWBA03975</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
     <g:id>LMBT01069_BLACK</g:id>
     <g:item_group_id>LMBT01069</g:item_group_id>
     <title>COLTER BELT 35MM BLACK</title>
@@ -8014,35 +8043,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>LWBA03975_DEEP PURPLE</g:id>
-    <g:item_group_id>LWBA03975</g:item_group_id>
-    <title>ROCK MINI CLUTCH DEEP PURPLE</title>
-    <description>Grained leather clutch with double leather and metal chains and rhinestone-adorned wings. - Rock Nano Pochette in grained leather - Two removable chains interwoven with leather and metal - Flap with zip and magnetic closure - Small zipped back pocket and interior patch pocket - Signature wings adorned with rhinestones - Can be carried by hand, shoulder or cross-body - Can hold a mobile phone with a dimension of 6.1 inches or less (e.g. can hold an iPhone and iPhone Pro 12/13/14/15/16) 19 x 11 cm. Chain strap height: 21 cm and 61 cm Composition 100% COW LEATHER Care - Protect your leather item from humidity and any source of heat (radiator, sun) - Avoid your item coming into contact with water - Regularly care for your leather item using a colourless nourishing cream for leather, suitable for leather goods - Ensure you wear your item with similar colours - Avoid overfilling your bag to ensure its durability - In case of stains, contact a leather professional</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/bags/lwba03975,deep+purple,rock-mini-clutch.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba03975/deep+purple/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba03975/deep+purple/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba03975/deep+purple/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba03975/deep+purple/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwba03975/deep+purple/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>1180.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Deep Purple</g:color>
-    <g:size>U</g:size>
-    <g:gender>female</g:gender>
-    <g:product_type>New Arrivals &gt; Bags</g:product_type>
-    <g:google_product_category>3032</g:google_product_category>
-    <g:mpn>LWBA03975</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>WMBS01067_SKY</g:id>
     <g:item_group_id>WMBS01067</g:item_group_id>
     <title>PANY BERMUDA SHORTS SKY</title>
@@ -8063,33 +8063,6 @@
     <g:product_type>New Arrivals &gt; Men</g:product_type>
     <g:google_product_category>207</g:google_product_category>
     <g:mpn>WMBS01067</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
-    <g:id>RWPA01106_CHERRY</g:id>
-    <g:item_group_id>RWPA01106</g:item_group_id>
-    <title>POCHA CRINKLED LEATHER PANTS CHERRY</title>
-    <description>Straight trousers in crinkled leather, jogging style, elasticated waist. Description &amp; details - Crinkled leather trousers - Low-rise elasticated waist - Piped pockets - Straight cut with jogging spirit - An emblematic material of Zadig&amp;Voltaire, crinkled leather is obtained through a multi-step process imagined by the house, guaranteeing a unique product with exceptional craftsmanship. Model is 181 cm and is wearing a size 36 Choose your usual size. Composition: 100% LAMBSKIN Care This garment should be cared for by a leather professional.</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/soft+touch/rwpa01106,cherry,pocha-crinkled-leather-pants.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwpa01106/cherry/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwpa01106/cherry/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwpa01106/cherry/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwpa01106/cherry/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>2900.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Cherry</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>New Arrivals &gt; Soft Touch</g:product_type>
-    <g:google_product_category>204</g:google_product_category>
-    <g:mpn>RWPA01106</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -8174,6 +8147,33 @@
     <g:product_type>New Arrivals &gt; Soft Touch</g:product_type>
     <g:google_product_category>212</g:google_product_category>
     <g:mpn>JWTN02682</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>RWPA01106_CHERRY</g:id>
+    <g:item_group_id>RWPA01106</g:item_group_id>
+    <title>POCHA CRINKLED LEATHER PANTS CHERRY</title>
+    <description>Straight trousers in crinkled leather, jogging style, elasticated waist. Description &amp; details - Crinkled leather trousers - Low-rise elasticated waist - Piped pockets - Straight cut with jogging spirit - An emblematic material of Zadig&amp;Voltaire, crinkled leather is obtained through a multi-step process imagined by the house, guaranteeing a unique product with exceptional craftsmanship. Model is 181 cm and is wearing a size 36 Choose your usual size. Composition: 100% LAMBSKIN Care This garment should be cared for by a leather professional.</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/soft+touch/rwpa01106,cherry,pocha-crinkled-leather-pants.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwpa01106/cherry/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwpa01106/cherry/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwpa01106/cherry/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/rwpa01106/cherry/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>2900.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Cherry</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>New Arrivals &gt; Soft Touch</g:product_type>
+    <g:google_product_category>204</g:google_product_category>
+    <g:mpn>RWPA01106</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -8756,6 +8756,33 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
+    <g:id>JWTT01297_BLEU OXFORD</g:id>
+    <g:item_group_id>JWTT01297</g:item_group_id>
+    <title>ALBAO TANK TOP BLEU OXFORD</title>
+    <description>Striped tank top. Cotton tank top Stripes Round neck Model is 177 cm and is wearing a size S This item has a fitted cut. If you are between sizes or prefer a looser fit, go for one size up. Composition 97% Cotton* 3% Elasthanne *97% of fibers comes from organic agriculture Care Machine-wash inside out on a 30°C delicate cycle with similar colours Air dry</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/cherry+collection/jwtt01297,bleu+oxford,albao-tank-top.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01297/bleu+oxford/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01297/bleu+oxford/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01297/bleu+oxford/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01297/bleu+oxford/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>380.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Bleu Oxford</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>New Arrivals &gt; Cherry Collection</g:product_type>
+    <g:google_product_category>212</g:google_product_category>
+    <g:mpn>JWTT01297</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
     <g:id>LWBA04555_LOVE</g:id>
     <g:item_group_id>LWBA04555</g:item_group_id>
     <title>Z SHOPPER MONOGRAM BAG LOVE</title>
@@ -8777,33 +8804,6 @@
     <g:product_type>New Arrivals &gt; Cherry Collection</g:product_type>
     <g:google_product_category>3032</g:google_product_category>
     <g:mpn>LWBA04555</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
-    <g:id>JWTT01297_BLEU OXFORD</g:id>
-    <g:item_group_id>JWTT01297</g:item_group_id>
-    <title>ALBAO TANK TOP BLEU OXFORD</title>
-    <description>Striped tank top. Cotton tank top Stripes Round neck Model is 177 cm and is wearing a size S This item has a fitted cut. If you are between sizes or prefer a looser fit, go for one size up. Composition 97% Cotton* 3% Elasthanne *97% of fibers comes from organic agriculture Care Machine-wash inside out on a 30°C delicate cycle with similar colours Air dry</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/new+arrivals/cherry+collection/jwtt01297,bleu+oxford,albao-tank-top.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01297/bleu+oxford/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01297/bleu+oxford/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01297/bleu+oxford/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01297/bleu+oxford/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>380.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Bleu Oxford</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>New Arrivals &gt; Cherry Collection</g:product_type>
-    <g:google_product_category>212</g:google_product_category>
-    <g:mpn>JWTT01297</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -9419,6 +9419,33 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
+    <g:id>KWCA01699_MEDIUM GREY</g:id>
+    <g:item_group_id>KWCA01699</g:item_group_id>
+    <title>MISSYA CARDIGAN 100% CASHMERE MEDIUM GREY</title>
+    <description>Buttoned crew neck cardigan with long sleeves and contrasting body hem and sleeves. 100% cashmere cardigan ZV logo embroidered on the chest Crew neck Button fastening Long sleeves Contrasting body hem and sleeves Model is 177 cm and is wearing a size S This item fits to size. Choose your usual size. Composition 100% Cashmere Care Hand-wash or machine-wash on a 20°C wool cycle with a maximum spin speed of 400 rpm Do not twist Air dry flat Iron inside out at a maximum of 110°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/sweaters+%26+cardigans/kwca01699,medium+grey,missya-cardigan-100%25-cashmere.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01699/medium+grey/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01699/medium+grey/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01699/medium+grey/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01699/medium+grey/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>1580.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Medium Grey</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Ready To Wear &gt; Sweaters &amp; Cardigans</g:product_type>
+    <g:google_product_category>212</g:google_product_category>
+    <g:mpn>KWCA01699</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
     <g:id>KWCA01699_DARK BLUE</g:id>
     <g:item_group_id>KWCA01699</g:item_group_id>
     <title>MISSYA CARDIGAN 100% CASHMERE ENCRE - DARK BLUE</title>
@@ -9435,33 +9462,6 @@
     <g:price>1580.00 ILS</g:price>
     <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
     <g:color>Dark Blue</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Ready To Wear &gt; Sweaters &amp; Cardigans</g:product_type>
-    <g:google_product_category>212</g:google_product_category>
-    <g:mpn>KWCA01699</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
-    <g:id>KWCA01699_MEDIUM GREY</g:id>
-    <g:item_group_id>KWCA01699</g:item_group_id>
-    <title>MISSYA CARDIGAN 100% CASHMERE MEDIUM GREY</title>
-    <description>Buttoned crew neck cardigan with long sleeves and contrasting body hem and sleeves. 100% cashmere cardigan ZV logo embroidered on the chest Crew neck Button fastening Long sleeves Contrasting body hem and sleeves Model is 177 cm and is wearing a size S This item fits to size. Choose your usual size. Composition 100% Cashmere Care Hand-wash or machine-wash on a 20°C wool cycle with a maximum spin speed of 400 rpm Do not twist Air dry flat Iron inside out at a maximum of 110°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/sweaters+%26+cardigans/kwca01699,medium+grey,missya-cardigan-100%25-cashmere.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01699/medium+grey/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01699/medium+grey/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01699/medium+grey/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kwca01699/medium+grey/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>1580.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Medium Grey</g:color>
     <g:gender>female</g:gender>
     <g:product_type>Ready To Wear &gt; Sweaters &amp; Cardigans</g:product_type>
     <g:google_product_category>212</g:google_product_category>
@@ -10230,34 +10230,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>WWDR02645_PEAR</g:id>
-    <g:item_group_id>WWDR02645</g:item_group_id>
-    <title>REROL DRESS PEAR</title>
-    <description>Long asymmetrical dress in printed viscose with embroidered wings on the back. - Long sleeveless dress - Printed - V-neckline - Embroidered wings on the back - Asymmetrical cut Model is 179 cm and is wearing a size S This item fits to size. Choose your usual size. Composition 100% Viscose* *Viscose fibers from sustainably managed forests Care Hand-wash or machine-wash inside out in a mesh laundry bag on a 20°C delicate cycle with a maximum spin speed of 400 rpm Air dry flat Iron inside out at a maximum of 110°C</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/dresses+%26+skirts/wwdr02645,pear,rerol-dress.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02645/pear/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02645/pear/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02645/pear/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02645/pear/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02645/pear/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>1980.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Pear</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Ready To Wear &gt; Dresses &amp; Skirts</g:product_type>
-    <g:google_product_category>2271</g:google_product_category>
-    <g:mpn>WWDR02645</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>WWSK01637_BLACK</g:id>
     <g:item_group_id>WWSK01637</g:item_group_id>
     <title>JAYLA SKIRT BLACK</title>
@@ -10287,27 +10259,26 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>WWDR02660_BABY BLUE</g:id>
-    <g:item_group_id>WWDR02660</g:item_group_id>
-    <title>RAMELIL 100% SILK DRESS BABY BLUE</title>
-    <description>Long lingerie-inspired dress in jacquard silk, with slit, adjustable straps, back wing embroidery and lace. - Long dress in 100% silk - Paisley jacquard - V-neckline - Adjustable straps - Back wing embroidery - Lace - Slit Model is 181 cm and is wearing a size S This item fits to size. Choose your usual size. Composition 100% SILK Care Hand-wash or machine-wash inside out in a mesh laundry bag on a 20°C delicate cycle with a maximum spin speed of 400 rpm Air dry flat Iron inside out at a maximum of 110°C</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/dresses+%26+skirts/wwdr02660,baby+blue,ramelil-100%25-silk-dress.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02660/baby+blue/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02660/baby+blue/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02660/baby+blue/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02660/baby+blue/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02660/baby+blue/5/photo.jpg</g:additional_image_link>
+    <g:id>WWDR02645_PEAR</g:id>
+    <g:item_group_id>WWDR02645</g:item_group_id>
+    <title>REROL DRESS PEAR</title>
+    <description>Long asymmetrical dress in printed viscose with embroidered wings on the back. - Long sleeveless dress - Printed - V-neckline - Embroidered wings on the back - Asymmetrical cut Model is 179 cm and is wearing a size S This item fits to size. Choose your usual size. Composition 100% Viscose* *Viscose fibers from sustainably managed forests Care Hand-wash or machine-wash inside out in a mesh laundry bag on a 20°C delicate cycle with a maximum spin speed of 400 rpm Air dry flat Iron inside out at a maximum of 110°C</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/dresses+%26+skirts/wwdr02645,pear,rerol-dress.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02645/pear/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02645/pear/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02645/pear/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02645/pear/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02645/pear/5/photo.jpg</g:additional_image_link>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:age_group>adult</g:age_group>
-    <g:price>2345.00 ILS</g:price>
-    <g:sale_price>1407.00 ILS</g:sale_price>
+    <g:price>1980.00 ILS</g:price>
     <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Baby Blue</g:color>
+    <g:color>Pear</g:color>
     <g:gender>female</g:gender>
     <g:product_type>Ready To Wear &gt; Dresses &amp; Skirts</g:product_type>
     <g:google_product_category>2271</g:google_product_category>
-    <g:mpn>WWDR02660</g:mpn>
+    <g:mpn>WWDR02645</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -10337,6 +10308,35 @@
     <g:product_type>Ready To Wear &gt; Dresses &amp; Skirts</g:product_type>
     <g:google_product_category>2271</g:google_product_category>
     <g:mpn>KWDR01234</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>WWDR02660_BABY BLUE</g:id>
+    <g:item_group_id>WWDR02660</g:item_group_id>
+    <title>RAMELIL 100% SILK DRESS BABY BLUE</title>
+    <description>Long lingerie-inspired dress in jacquard silk, with slit, adjustable straps, back wing embroidery and lace. - Long dress in 100% silk - Paisley jacquard - V-neckline - Adjustable straps - Back wing embroidery - Lace - Slit Model is 181 cm and is wearing a size S This item fits to size. Choose your usual size. Composition 100% SILK Care Hand-wash or machine-wash inside out in a mesh laundry bag on a 20°C delicate cycle with a maximum spin speed of 400 rpm Air dry flat Iron inside out at a maximum of 110°C</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/dresses+%26+skirts/wwdr02660,baby+blue,ramelil-100%25-silk-dress.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02660/baby+blue/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02660/baby+blue/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02660/baby+blue/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02660/baby+blue/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwdr02660/baby+blue/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>2345.00 ILS</g:price>
+    <g:sale_price>1407.00 ILS</g:sale_price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Baby Blue</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Ready To Wear &gt; Dresses &amp; Skirts</g:product_type>
+    <g:google_product_category>2271</g:google_product_category>
+    <g:mpn>WWDR02660</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -10998,35 +10998,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>JWTT01278_COCONUT</g:id>
-    <g:item_group_id>JWTT01278</g:item_group_id>
-    <title>ANA SLEEVELESS TOP COCONUT</title>
-    <description>Sleeveless top with open V-neck. - Sleeveless top in cotton and linen - V-neck with wing brooch fastening - Model is 173 cm / 5' 8" and is wearing a size S This item has a fitted cut. If you are between sizes or prefer a looser fit, go for one size up. Composition 70% COTTON* 30% LINEN Care Machine-wash inside out on a 30°C delicate cycle Do not bleach and do not tumble dry Air dry Iron inside out at a maximum of 150°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/shirts+%26+tops/jwtt01278,coconut,ana-sleeveless-top.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01278/coconut/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01278/coconut/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01278/coconut/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01278/coconut/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01278/coconut/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>665.00 ILS</g:price>
-    <g:sale_price>399.00 ILS</g:sale_price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Coconut</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Ready To Wear &gt; Shirts &amp; Tops</g:product_type>
-    <g:google_product_category>212</g:google_product_category>
-    <g:mpn>JWTT01278</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>WWSH02320_PEAR</g:id>
     <g:item_group_id>WWSH02320</g:item_group_id>
     <title>TORNY SHIRT PEAR</title>
@@ -11048,6 +11019,35 @@
     <g:product_type>Ready To Wear &gt; Shirts &amp; Tops</g:product_type>
     <g:google_product_category>212</g:google_product_category>
     <g:mpn>WWSH02320</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>JWTT01278_COCONUT</g:id>
+    <g:item_group_id>JWTT01278</g:item_group_id>
+    <title>ANA SLEEVELESS TOP COCONUT</title>
+    <description>Sleeveless top with open V-neck. - Sleeveless top in cotton and linen - V-neck with wing brooch fastening - Model is 173 cm / 5' 8" and is wearing a size S This item has a fitted cut. If you are between sizes or prefer a looser fit, go for one size up. Composition 70% COTTON* 30% LINEN Care Machine-wash inside out on a 30°C delicate cycle Do not bleach and do not tumble dry Air dry Iron inside out at a maximum of 150°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/shirts+%26+tops/jwtt01278,coconut,ana-sleeveless-top.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01278/coconut/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01278/coconut/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01278/coconut/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01278/coconut/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwtt01278/coconut/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>665.00 ILS</g:price>
+    <g:sale_price>399.00 ILS</g:sale_price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Coconut</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Ready To Wear &gt; Shirts &amp; Tops</g:product_type>
+    <g:google_product_category>212</g:google_product_category>
+    <g:mpn>JWTT01278</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -11525,34 +11525,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>JWTS02906_DARK BLUE</g:id>
-    <g:item_group_id>JWTS02906</g:item_group_id>
-    <title>MARTA T-SHIRT ENCRE - DARK BLUE</title>
-    <description>V-neck T-shirt with short sleeves and rhinestone details. T-shirt Rhinestone details V-neck Short sleeves Composition 50% Polyester* 30% Cotton 20% Linen *Contains 50% recycled polyester Care Machine-wash inside out on a 30°C delicate cycle with similar colours Air dry Iron inside out at a maximum of 110°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/t-shirts/jwts02906,encre,marta-t-shirt.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02906/encre/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02906/encre/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02906/encre/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02906/encre/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02906/encre/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>380.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Dark Blue</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Ready To Wear &gt; T-Shirts</g:product_type>
-    <g:google_product_category>212</g:google_product_category>
-    <g:mpn>JWTS02906</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>JWTS02910_LIGHT JADE</g:id>
     <g:item_group_id>JWTS02910</g:item_group_id>
     <title>WALK T-SHIRT LIGHT JADE</title>
@@ -11573,6 +11545,34 @@
     <g:product_type>Ready To Wear &gt; T-Shirts</g:product_type>
     <g:google_product_category>212</g:google_product_category>
     <g:mpn>JWTS02910</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>JWTS02906_DARK BLUE</g:id>
+    <g:item_group_id>JWTS02906</g:item_group_id>
+    <title>MARTA T-SHIRT ENCRE - DARK BLUE</title>
+    <description>V-neck T-shirt with short sleeves and rhinestone details. T-shirt Rhinestone details V-neck Short sleeves Composition 50% Polyester* 30% Cotton 20% Linen *Contains 50% recycled polyester Care Machine-wash inside out on a 30°C delicate cycle with similar colours Air dry Iron inside out at a maximum of 110°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/t-shirts/jwts02906,encre,marta-t-shirt.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02906/encre/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02906/encre/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02906/encre/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02906/encre/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwts02906/encre/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>380.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Dark Blue</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Ready To Wear &gt; T-Shirts</g:product_type>
+    <g:google_product_category>212</g:google_product_category>
+    <g:mpn>JWTS02906</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -12057,33 +12057,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>WWPA01902_DARK BLUE</g:id>
-    <g:item_group_id>WWPA01902</g:item_group_id>
-    <title>PISTOL PANTS ENCRE - DARK BLUE</title>
-    <description>Loose straight tailored trousers in suiting fabric. - Tailored trousers - Italian pockets and welt pockets - Flared cut - High waist Model is 178 cm and is wearing a size S Choose your usual size. Composition 43% POLYESTER** 26% POLYESTER 23% VISCOSE** 8% ELASTHANNE **Recycled polyester fibers **Viscose fibers from sustainably managed forests Care - This garment should be dry-cleaned only - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/pants+%26+jeans/wwpa01902,encre,pistol-pants.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01902/encre/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01902/encre/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01902/encre/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01902/encre/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>1180.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Dark Blue</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Ready To Wear &gt; Pants &amp; Jeans</g:product_type>
-    <g:google_product_category>204</g:google_product_category>
-    <g:mpn>WWPA01902</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>JWSP00008_HEATHER GREY</g:id>
     <g:item_group_id>JWSP00008</g:item_group_id>
     <title>CHILL JOGGING TROUSERS GRIS CHINE CLAI - HEATHER GREY</title>
@@ -12104,6 +12077,33 @@
     <g:product_type>Ready To Wear &gt; Pants &amp; Jeans</g:product_type>
     <g:google_product_category>204</g:google_product_category>
     <g:mpn>JWSP00008</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>WWPA01902_DARK BLUE</g:id>
+    <g:item_group_id>WWPA01902</g:item_group_id>
+    <title>PISTOL PANTS ENCRE - DARK BLUE</title>
+    <description>Loose straight tailored trousers in suiting fabric. - Tailored trousers - Italian pockets and welt pockets - Flared cut - High waist Model is 178 cm and is wearing a size S Choose your usual size. Composition 43% POLYESTER** 26% POLYESTER 23% VISCOSE** 8% ELASTHANNE **Recycled polyester fibers **Viscose fibers from sustainably managed forests Care - This garment should be dry-cleaned only - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/pants+%26+jeans/wwpa01902,encre,pistol-pants.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01902/encre/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01902/encre/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01902/encre/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01902/encre/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>1180.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Dark Blue</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Ready To Wear &gt; Pants &amp; Jeans</g:product_type>
+    <g:google_product_category>204</g:google_product_category>
+    <g:mpn>WWPA01902</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -12167,6 +12167,33 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
+    <g:id>WWPA01921_BLEU OXFORD</g:id>
+    <g:item_group_id>WWPA01921</g:item_group_id>
+    <title>POMA PANTS BLEU OXFORD</title>
+    <description>Jogger-style trousers in crisp cotton. Jogger-style trousers Zadig&amp;Voltaire embroidery on the back pocket Patch pockets Mid-rise waist Regular fit Model is 176 cm and is wearing a size 36 This item fits to size. Choose your usual size. Composition 96% Cotton* 4% Elasthanne *96% of fibers comes from organic agriculture Care This garment should be dry-cleaned only Iron inside out at a maximum of 110°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/pants+%26+jeans/wwpa01921,bleu+oxford,poma-pants.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01921/bleu+oxford/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01921/bleu+oxford/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01921/bleu+oxford/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01921/bleu+oxford/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>980.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Bleu Oxford</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Ready To Wear &gt; Pants &amp; Jeans</g:product_type>
+    <g:google_product_category>204</g:google_product_category>
+    <g:mpn>WWPA01921</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
     <g:id>WWBS01178_LIGHT BLUE</g:id>
     <g:item_group_id>WWBS01178</g:item_group_id>
     <title>SADYS SHORTS LIGHT BLUE</title>
@@ -12187,33 +12214,6 @@
     <g:product_type>Ready To Wear &gt; Pants &amp; Jeans</g:product_type>
     <g:google_product_category>207</g:google_product_category>
     <g:mpn>WWBS01178</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
-    <g:id>WWPA01921_BLEU OXFORD</g:id>
-    <g:item_group_id>WWPA01921</g:item_group_id>
-    <title>POMA PANTS BLEU OXFORD</title>
-    <description>Jogger-style trousers in crisp cotton. Jogger-style trousers Zadig&amp;Voltaire embroidery on the back pocket Patch pockets Mid-rise waist Regular fit Model is 176 cm and is wearing a size 36 This item fits to size. Choose your usual size. Composition 96% Cotton* 4% Elasthanne *96% of fibers comes from organic agriculture Care This garment should be dry-cleaned only Iron inside out at a maximum of 110°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/pants+%26+jeans/wwpa01921,bleu+oxford,poma-pants.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01921/bleu+oxford/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01921/bleu+oxford/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01921/bleu+oxford/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwpa01921/bleu+oxford/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>980.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Bleu Oxford</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Ready To Wear &gt; Pants &amp; Jeans</g:product_type>
-    <g:google_product_category>204</g:google_product_category>
-    <g:mpn>WWPA01921</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -12278,34 +12278,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>WWJE00007_JUDO</g:id>
-    <g:item_group_id>WWJE00007</g:item_group_id>
-    <title>MAMMA ECO JEANS JUDO</title>
-    <description>- Women's denim jeans - Shorter ankle length - 5 pockets and belt loops at the waist - "Zadig Denim" leather jacron on the back, metal strap at the side and "Mamma"embroidery on the inside of the waist Model is 179 cm and is wearing a size 36 We recommend buying your usual size. Composition 93% COTTON** 5% ELASTOMULTIESTER 2% ELASTANE **Fibers from organic farming Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 150°C, or in case of customised details, at a maximum of 110°C avoiding the customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/pants+%26+jeans/wwje00007,judo,mamma-eco-jeans.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje00007/judo/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje00007/judo/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje00007/judo/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje00007/judo/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje00007/judo/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>1060.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Judo</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Ready To Wear &gt; Pants &amp; Jeans</g:product_type>
-    <g:google_product_category>204</g:google_product_category>
-    <g:mpn>WWJE00007</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>WWJE00007_MEDIUM BLUE</g:id>
     <g:item_group_id>WWJE00007</g:item_group_id>
     <title>MAMMA ECO JEANS MEDIUM BLUE</title>
@@ -12322,6 +12294,34 @@
     <g:price>1060.00 ILS</g:price>
     <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
     <g:color>Medium Blue</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Ready To Wear &gt; Pants &amp; Jeans</g:product_type>
+    <g:google_product_category>204</g:google_product_category>
+    <g:mpn>WWJE00007</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>WWJE00007_JUDO</g:id>
+    <g:item_group_id>WWJE00007</g:item_group_id>
+    <title>MAMMA ECO JEANS JUDO</title>
+    <description>- Women's denim jeans - Shorter ankle length - 5 pockets and belt loops at the waist - "Zadig Denim" leather jacron on the back, metal strap at the side and "Mamma"embroidery on the inside of the waist Model is 179 cm and is wearing a size 36 We recommend buying your usual size. Composition 93% COTTON** 5% ELASTOMULTIESTER 2% ELASTANE **Fibers from organic farming Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 150°C, or in case of customised details, at a maximum of 110°C avoiding the customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/pants+%26+jeans/wwje00007,judo,mamma-eco-jeans.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje00007/judo/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje00007/judo/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje00007/judo/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje00007/judo/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwje00007/judo/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>1060.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Judo</g:color>
     <g:gender>female</g:gender>
     <g:product_type>Ready To Wear &gt; Pants &amp; Jeans</g:product_type>
     <g:google_product_category>204</g:google_product_category>
@@ -12419,35 +12419,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>WWBS01176_SIXTINE</g:id>
-    <g:item_group_id>WWBS01176</g:item_group_id>
-    <title>PAX SHORT SIXTINE</title>
-    <description>Boxer-inspired shorts in striped poplin. - Boxer-inspired shorts in 100% cotton - Striped poplin - Elasticated waistband with buttons - ZV signature - Mid-rise Model is 178 cm and is wearing a size 36 This item fits to size. Choose your usual size. Composition 100% COTTON* Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 150°C, or in case of customised details, at a maximum of 110°C avoiding the customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/pants+%26+jeans/wwbs01176,sixtine,pax-short.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwbs01176/sixtine/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwbs01176/sixtine/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwbs01176/sixtine/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwbs01176/sixtine/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwbs01176/sixtine/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>710.00 ILS</g:price>
-    <g:sale_price>426.00 ILS</g:sale_price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Sixtine</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Ready To Wear &gt; Pants &amp; Jeans</g:product_type>
-    <g:google_product_category>204</g:google_product_category>
-    <g:mpn>WWBS01176</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>WWJE01319_LIGHT BLUE</g:id>
     <g:item_group_id>WWJE01319</g:item_group_id>
     <title>EVY JEANS LIGHT BLUE</title>
@@ -12498,6 +12469,35 @@
     <g:product_type>Ready To Wear &gt; Pants &amp; Jeans</g:product_type>
     <g:google_product_category>204</g:google_product_category>
     <g:mpn>WWPA01892</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>WWBS01176_SIXTINE</g:id>
+    <g:item_group_id>WWBS01176</g:item_group_id>
+    <title>PAX SHORT SIXTINE</title>
+    <description>Boxer-inspired shorts in striped poplin. - Boxer-inspired shorts in 100% cotton - Striped poplin - Elasticated waistband with buttons - ZV signature - Mid-rise Model is 178 cm and is wearing a size 36 This item fits to size. Choose your usual size. Composition 100% COTTON* Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 150°C, or in case of customised details, at a maximum of 110°C avoiding the customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/pants+%26+jeans/wwbs01176,sixtine,pax-short.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwbs01176/sixtine/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwbs01176/sixtine/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwbs01176/sixtine/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwbs01176/sixtine/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wwbs01176/sixtine/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>710.00 ILS</g:price>
+    <g:sale_price>426.00 ILS</g:sale_price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Sixtine</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Ready To Wear &gt; Pants &amp; Jeans</g:product_type>
+    <g:google_product_category>204</g:google_product_category>
+    <g:mpn>WWBS01176</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -12651,33 +12651,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>JWSS01741_HEATHER GREY</g:id>
-    <g:item_group_id>JWSS01741</g:item_group_id>
-    <title>GEORGY SWEATSHIRT GRIS CHINE CLAI - HEATHER GREY</title>
-    <description>Hooded sweatshirt with print and rhinestones on the back. Cotton sweatshirt Print and rhinestones on the back Hood Round neckline Front pocket Long sleeves Model is 178 cm and is wearing a size S This item has a loose fit. For a more fitted look, choose one size down from your usual size. Composition 81% Cotton* 19% Polyester** *Cotton fibers from organic farming **Recycled polyester fibers Care Machine-wash inside out on a 30°C delicate cycle with similar colours Air dry Iron inside out at a maximum of 110°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/suits+%26+sets/jwss01741,gris+chine+clai,georgy-sweatshirt.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwss01741/gris+chine+clai/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwss01741/gris+chine+clai/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwss01741/gris+chine+clai/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwss01741/gris+chine+clai/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>1020.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Heather Grey</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Ready To Wear &gt; Suits &amp; Sets</g:product_type>
-    <g:google_product_category>212</g:google_product_category>
-    <g:mpn>JWSS01741</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>JWSS01675_BLACK</g:id>
     <g:item_group_id>JWSS01675</g:item_group_id>
     <title>GEORGYS SWEATSHIRT BLACK</title>
@@ -12699,6 +12672,33 @@
     <g:product_type>Ready To Wear &gt; Sweatshirts</g:product_type>
     <g:google_product_category>212</g:google_product_category>
     <g:mpn>JWSS01675</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>JWSS01741_HEATHER GREY</g:id>
+    <g:item_group_id>JWSS01741</g:item_group_id>
+    <title>GEORGY SWEATSHIRT GRIS CHINE CLAI - HEATHER GREY</title>
+    <description>Hooded sweatshirt with print and rhinestones on the back. Cotton sweatshirt Print and rhinestones on the back Hood Round neckline Front pocket Long sleeves Model is 178 cm and is wearing a size S This item has a loose fit. For a more fitted look, choose one size down from your usual size. Composition 81% Cotton* 19% Polyester** *Cotton fibers from organic farming **Recycled polyester fibers Care Machine-wash inside out on a 30°C delicate cycle with similar colours Air dry Iron inside out at a maximum of 110°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/ready+to+wear/suits+%26+sets/jwss01741,gris+chine+clai,georgy-sweatshirt.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwss01741/gris+chine+clai/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwss01741/gris+chine+clai/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwss01741/gris+chine+clai/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jwss01741/gris+chine+clai/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>1020.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Heather Grey</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Ready To Wear &gt; Suits &amp; Sets</g:product_type>
+    <g:google_product_category>212</g:google_product_category>
+    <g:mpn>JWSS01741</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -15177,32 +15177,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>WKAV9201F_PASSION</g:id>
-    <g:item_group_id>WKAV9201F</g:item_group_id>
-    <title>SWING YOUR WINGS CHARMS PASSION</title>
-    <description>Removable wing charm for the Swing your Wings bag, designed exclusively to personalise this range of bags. Which wings will you succumb to? Simply clip this charm to your Swing Your Wings bag and customise it according to your desires for the day... A variety of colours to collect without moderation. - Zadig&amp;Voltaire wings charm - To clip onto the Swing Your Wings bag -This charm is only compatible with the Swing Your Wings bag Composition: 100% Zamak</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/bags/bag+accessories/wkav9201f,passion,swing-your-wings-charms.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wkav9201f/passion/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wkav9201f/passion/2/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>120.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Passion</g:color>
-    <g:size>U</g:size>
-    <g:gender>unisex</g:gender>
-    <g:product_type>Bags &gt; Bag Accessories</g:product_type>
-    <g:google_product_category>6552</g:google_product_category>
-    <g:mpn>WKAV9201F</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>WKAV9201F_OLD GOLD</g:id>
     <g:item_group_id>WKAV9201F</g:item_group_id>
     <title>SWING YOUR WINGS CHARMS OLD GOLD</title>
@@ -15216,6 +15190,32 @@
     <g:price>120.00 ILS</g:price>
     <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
     <g:color>Old Gold</g:color>
+    <g:size>U</g:size>
+    <g:gender>unisex</g:gender>
+    <g:product_type>Bags &gt; Bag Accessories</g:product_type>
+    <g:google_product_category>6552</g:google_product_category>
+    <g:mpn>WKAV9201F</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>WKAV9201F_PASSION</g:id>
+    <g:item_group_id>WKAV9201F</g:item_group_id>
+    <title>SWING YOUR WINGS CHARMS PASSION</title>
+    <description>Removable wing charm for the Swing your Wings bag, designed exclusively to personalise this range of bags. Which wings will you succumb to? Simply clip this charm to your Swing Your Wings bag and customise it according to your desires for the day... A variety of colours to collect without moderation. - Zadig&amp;Voltaire wings charm - To clip onto the Swing Your Wings bag -This charm is only compatible with the Swing Your Wings bag Composition: 100% Zamak</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/bags/bag+accessories/wkav9201f,passion,swing-your-wings-charms.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wkav9201f/passion/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wkav9201f/passion/2/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>120.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Passion</g:color>
     <g:size>U</g:size>
     <g:gender>unisex</g:gender>
     <g:product_type>Bags &gt; Bag Accessories</g:product_type>
@@ -16443,33 +16443,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>OWJW01728_SHINY SILVER</g:id>
-    <g:item_group_id>OWJW01728</g:item_group_id>
-    <title>ROCK STAR EARRINGS SHINY SILVER</title>
-    <description>Silver star-shaped earrings in brass, featuring chains adorned with lightning bolts and studded spikes. - Shiny Silver earrings in silver-plated brass for women - One with a double chain - Stars, lightning bolts, and studded spikes - Butterfly clasp Zadig&amp;Voltaire's jewellery line is made from at least 75% recycled brass, excluding the chains and clasp. Composition 100% BRASS Care - Clean you jewellery with a soft, dry cloth - Avoid contact with water and chemicals (fragrance, cosmetics, chlorine, hydroalcoholic gel) - Protect your jewellery from humidity and any source of heat - Avoid sleeping with your jewellery on - Store your jewellery in its protective pouch</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/accessories/jewelry/owjw01728,shiny+silver,rock-star-earrings.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01728/shiny+silver/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01728/shiny+silver/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01728/shiny+silver/3/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>590.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Shiny Silver</g:color>
-    <g:size>U</g:size>
-    <g:gender>female</g:gender>
-    <g:product_type>Accessories &gt; Jewelry</g:product_type>
-    <g:google_product_category>188</g:google_product_category>
-    <g:mpn>OWJW01728</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>OWJW01771_SHINY SILVER</g:id>
     <g:item_group_id>OWJW01771</g:item_group_id>
     <title>ROCK STAR EARRINGS SHINY SILVER</title>
@@ -16492,6 +16465,33 @@
     <g:product_type>Accessories &gt; Jewelry</g:product_type>
     <g:google_product_category>188</g:google_product_category>
     <g:mpn>OWJW01771</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>OWJW01728_SHINY SILVER</g:id>
+    <g:item_group_id>OWJW01728</g:item_group_id>
+    <title>ROCK STAR EARRINGS SHINY SILVER</title>
+    <description>Silver star-shaped earrings in brass, featuring chains adorned with lightning bolts and studded spikes. - Shiny Silver earrings in silver-plated brass for women - One with a double chain - Stars, lightning bolts, and studded spikes - Butterfly clasp Zadig&amp;Voltaire's jewellery line is made from at least 75% recycled brass, excluding the chains and clasp. Composition 100% BRASS Care - Clean you jewellery with a soft, dry cloth - Avoid contact with water and chemicals (fragrance, cosmetics, chlorine, hydroalcoholic gel) - Protect your jewellery from humidity and any source of heat - Avoid sleeping with your jewellery on - Store your jewellery in its protective pouch</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/accessories/jewelry/owjw01728,shiny+silver,rock-star-earrings.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01728/shiny+silver/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01728/shiny+silver/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01728/shiny+silver/3/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>590.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Shiny Silver</g:color>
+    <g:size>U</g:size>
+    <g:gender>female</g:gender>
+    <g:product_type>Accessories &gt; Jewelry</g:product_type>
+    <g:google_product_category>188</g:google_product_category>
+    <g:mpn>OWJW01728</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -16855,36 +16855,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>OWJW01759_FLASH</g:id>
-    <g:item_group_id>OWJW01759</g:item_group_id>
-    <title>WOVEN BRACELET ZADIG HEART FLASH</title>
-    <description>Woven polyester bracelet with embroidery. - Woven bracelet - Heart embroidery - Drawstrings with tassels 14 x 2 cm Composition 100% COTTON Care - Clean you jewellery with a soft, dry cloth - Avoid contact with water and chemicals (fragrance, cosmetics, chlorine, hydroalcoholic gel) - Protect your jewellery from humidity and any source of heat - Avoid sleeping with your jewellery on - Store your jewellery in its protective pouch</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/accessories/jewelry/owjw01759,flash,woven-bracelet-zadig-heart.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01759/flash/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01759/flash/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01759/flash/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01759/flash/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01759/flash/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>150.00 ILS</g:price>
-    <g:sale_price>120.00 ILS</g:sale_price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Flash</g:color>
-    <g:size>U</g:size>
-    <g:gender>female</g:gender>
-    <g:product_type>Accessories &gt; Jewelry</g:product_type>
-    <g:google_product_category>188</g:google_product_category>
-    <g:mpn>OWJW01759</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>OWJW01782_FIERCE</g:id>
     <g:item_group_id>OWJW01782</g:item_group_id>
     <title>VOLTAIRE WOVEN BRACELET FIERCE</title>
@@ -16907,6 +16877,36 @@
     <g:product_type>Accessories &gt; Jewelry</g:product_type>
     <g:google_product_category>188</g:google_product_category>
     <g:mpn>OWJW01782</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>OWJW01759_FLASH</g:id>
+    <g:item_group_id>OWJW01759</g:item_group_id>
+    <title>WOVEN BRACELET ZADIG HEART FLASH</title>
+    <description>Woven polyester bracelet with embroidery. - Woven bracelet - Heart embroidery - Drawstrings with tassels 14 x 2 cm Composition 100% COTTON Care - Clean you jewellery with a soft, dry cloth - Avoid contact with water and chemicals (fragrance, cosmetics, chlorine, hydroalcoholic gel) - Protect your jewellery from humidity and any source of heat - Avoid sleeping with your jewellery on - Store your jewellery in its protective pouch</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/accessories/jewelry/owjw01759,flash,woven-bracelet-zadig-heart.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01759/flash/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01759/flash/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01759/flash/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01759/flash/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01759/flash/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>150.00 ILS</g:price>
+    <g:sale_price>120.00 ILS</g:sale_price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Flash</g:color>
+    <g:size>U</g:size>
+    <g:gender>female</g:gender>
+    <g:product_type>Accessories &gt; Jewelry</g:product_type>
+    <g:google_product_category>188</g:google_product_category>
+    <g:mpn>OWJW01759</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -17258,6 +17258,34 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
+    <g:id>OWJW01751_FLASH</g:id>
+    <g:item_group_id>OWJW01751</g:item_group_id>
+    <title>ROCK LEATHER BRACELET FLASH</title>
+    <description>Embossed croc-effect leather bracelet with a wing. - Women's double wrap bracelet in croc-embossed leather - Reversible with a grained leather interior - Holes, keeper, and buckle with silver signature metal wings - Can be worn as a bracelet or necklace Length: 39.5 cm Composition 100% CALFSKIN Care - Clean you jewellery with a soft, dry cloth - Avoid contact with water and chemicals (fragrance, cosmetics, chlorine, hydroalcoholic gel) - Protect your jewellery from humidity and any source of heat - Avoid sleeping with your jewellery on - Store your jewellery in its protective pouch</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/accessories/jewelry/owjw01751,flash,rock-leather-bracelet.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01751/flash/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01751/flash/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01751/flash/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01751/flash/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>495.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Flash</g:color>
+    <g:size>U</g:size>
+    <g:gender>female</g:gender>
+    <g:product_type>Accessories &gt; Jewelry</g:product_type>
+    <g:google_product_category>188</g:google_product_category>
+    <g:mpn>OWJW01751</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
     <g:id>OWJW00033_SHINY SILVER</g:id>
     <g:item_group_id>OWJW00033</g:item_group_id>
     <title>SNAKE BRACELET SHINY SILVER</title>
@@ -17279,34 +17307,6 @@
     <g:product_type>Accessories &gt; Jewelry</g:product_type>
     <g:google_product_category>188</g:google_product_category>
     <g:mpn>OWJW00033</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
-    <g:id>OWJW01751_FLASH</g:id>
-    <g:item_group_id>OWJW01751</g:item_group_id>
-    <title>ROCK LEATHER BRACELET FLASH</title>
-    <description>Embossed croc-effect leather bracelet with a wing. - Women's double wrap bracelet in croc-embossed leather - Reversible with a grained leather interior - Holes, keeper, and buckle with silver signature metal wings - Can be worn as a bracelet or necklace Length: 39.5 cm Composition 100% CALFSKIN Care - Clean you jewellery with a soft, dry cloth - Avoid contact with water and chemicals (fragrance, cosmetics, chlorine, hydroalcoholic gel) - Protect your jewellery from humidity and any source of heat - Avoid sleeping with your jewellery on - Store your jewellery in its protective pouch</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/accessories/jewelry/owjw01751,flash,rock-leather-bracelet.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01751/flash/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01751/flash/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01751/flash/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owjw01751/flash/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>495.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Flash</g:color>
-    <g:size>U</g:size>
-    <g:gender>female</g:gender>
-    <g:product_type>Accessories &gt; Jewelry</g:product_type>
-    <g:google_product_category>188</g:google_product_category>
-    <g:mpn>OWJW01751</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -17371,6 +17371,32 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
+    <g:id>OWSC01555_BLACK</g:id>
+    <g:item_group_id>OWSC01555</g:item_group_id>
+    <title>LUCY THIN SCARF BLACK</title>
+    <description>Description and information Wool and cashmere scarf adorned with rhinestones on the triangular tips. Wool and cashmere scarf Rhinestones on the triangular tips ZV logo 180 x 27 cm Composition 90% Wool* 10% Cashmere Wool fibers from farming ensuring animal welfare Cashmere fibers from an animal-friendly farm Care Hand-wash or machine-wash inside out in a mesh laundry bag on a 20°C delicate cycle with a maximum spin speed of 400 rpm Air dry flat Iron inside out at a maximum of 110°C</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/accessories/scarves/owsc01555,black,lucy-thin-scarf.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owsc01555/black/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owsc01555/black/2/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>740.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Black</g:color>
+    <g:size>U</g:size>
+    <g:gender>female</g:gender>
+    <g:product_type>Accessories &gt; Scarves</g:product_type>
+    <g:google_product_category>177</g:google_product_category>
+    <g:mpn>OWSC01555</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
     <g:id>OWSC01555_DARK GREY</g:id>
     <g:item_group_id>OWSC01555</g:item_group_id>
     <title>LUCY THIN SCARF DARK GREY</title>
@@ -17385,32 +17411,6 @@
     <g:price>740.00 ILS</g:price>
     <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
     <g:color>Dark Grey</g:color>
-    <g:size>U</g:size>
-    <g:gender>female</g:gender>
-    <g:product_type>Accessories &gt; Scarves</g:product_type>
-    <g:google_product_category>177</g:google_product_category>
-    <g:mpn>OWSC01555</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
-    <g:id>OWSC01555_BLACK</g:id>
-    <g:item_group_id>OWSC01555</g:item_group_id>
-    <title>LUCY THIN SCARF BLACK</title>
-    <description>Description and information Wool and cashmere scarf adorned with rhinestones on the triangular tips. Wool and cashmere scarf Rhinestones on the triangular tips ZV logo 180 x 27 cm Composition 90% Wool* 10% Cashmere Wool fibers from farming ensuring animal welfare Cashmere fibers from an animal-friendly farm Care Hand-wash or machine-wash inside out in a mesh laundry bag on a 20°C delicate cycle with a maximum spin speed of 400 rpm Air dry flat Iron inside out at a maximum of 110°C</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/accessories/scarves/owsc01555,black,lucy-thin-scarf.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owsc01555/black/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owsc01555/black/2/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>740.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Black</g:color>
     <g:size>U</g:size>
     <g:gender>female</g:gender>
     <g:product_type>Accessories &gt; Scarves</g:product_type>
@@ -18704,33 +18704,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>OWLI00015_OLD GOLD</g:id>
-    <g:item_group_id>OWLI00015</g:item_group_id>
-    <title>LOVE YOURSELF MIRROR OLD GOLD</title>
-    <description>Voltaire Vice gold-tone metal compact mirror. The Love Yourself Mirror is part of the Voltaire Vice capsule. Zadig&amp;Voltaire is experimenting with a new creative space, where freedom is the watchword. The brand is adding its signature to everyday objects that are both practical and decorative, where design is as important as purpose. - Double-sided old gold metal pocket mirror with standard mirror above and magnifying mirror below - Flip lid - Zadig&amp;Voltaire signature and raised wings motif on lid - "Je m'en fous" slogan on the inside Dimensions: 7.5 x 7.5 cm Composition 100% zinc</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/accessories/lifestyle+objects/owli00015,old+gold,love-yourself-mirror.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owli00015/old+gold/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owli00015/old+gold/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owli00015/old+gold/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owli00015/old+gold/4/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>210.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Old Gold</g:color>
-    <g:size>U</g:size>
-    <g:gender>female</g:gender>
-    <g:product_type>Accessories &gt; Lifestyle Objects</g:product_type>
-    <g:mpn>OWLI00015</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>OWLI01099_BLACK</g:id>
     <g:item_group_id>OWLI01099</g:item_group_id>
     <title>MITY BLACK</title>
@@ -18750,6 +18723,33 @@
     <g:gender>female</g:gender>
     <g:product_type>Accessories &gt; Lifestyle Objects</g:product_type>
     <g:mpn>OWLI01099</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>OWLI00015_OLD GOLD</g:id>
+    <g:item_group_id>OWLI00015</g:item_group_id>
+    <title>LOVE YOURSELF MIRROR OLD GOLD</title>
+    <description>Voltaire Vice gold-tone metal compact mirror. The Love Yourself Mirror is part of the Voltaire Vice capsule. Zadig&amp;Voltaire is experimenting with a new creative space, where freedom is the watchword. The brand is adding its signature to everyday objects that are both practical and decorative, where design is as important as purpose. - Double-sided old gold metal pocket mirror with standard mirror above and magnifying mirror below - Flip lid - Zadig&amp;Voltaire signature and raised wings motif on lid - "Je m'en fous" slogan on the inside Dimensions: 7.5 x 7.5 cm Composition 100% zinc</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/accessories/lifestyle+objects/owli00015,old+gold,love-yourself-mirror.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owli00015/old+gold/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owli00015/old+gold/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owli00015/old+gold/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/owli00015/old+gold/4/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>210.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Old Gold</g:color>
+    <g:size>U</g:size>
+    <g:gender>female</g:gender>
+    <g:product_type>Accessories &gt; Lifestyle Objects</g:product_type>
+    <g:mpn>OWLI00015</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -18812,6 +18812,34 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
+    <g:id>LWSC00004_BLACK</g:id>
+    <g:item_group_id>LWSC00004</g:item_group_id>
+    <title>ZADOG COLLAR BLACK</title>
+    <description>Vintage-effect leather dog collar with print. Description &amp; details - Vintage-effect leather dog collar - Zadig&amp;Voltaire signature print - Keeper to adjust size - Size guide Size 1: neck circumference 26 to 36 cm Size 2: neck circumference 34 to 44 cm Composition 100% COW LEATHER Care - Protect your leather item from humidity and any source of heat (radiator, sun) - Avoid your item coming into contact with water - Regularly care for your leather item using a colourless nourishing cream for leather, suitable for leather goods - Ensure you wear your item with similar colours - Avoid overfilling your bag to ensure its durability - In case of stains, contact a leather professional</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/accessories/lifestyle+objects/lwsc00004,black,zadog-collar.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsc00004/black/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsc00004/black/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsc00004/black/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsc00004/black/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsc00004/black/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>410.00 ILS</g:price>
+    <g:sale_price>328.00 ILS</g:sale_price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Black</g:color>
+    <g:gender>female</g:gender>
+    <g:product_type>Accessories &gt; Lifestyle Objects</g:product_type>
+    <g:mpn>LWSC00004</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
     <g:id>LWCS00008_POWER</g:id>
     <g:item_group_id>LWCS00008</g:item_group_id>
     <title>ZADOG BANDANA POWER</title>
@@ -18834,34 +18862,6 @@
     <g:product_type>Accessories &gt; Lifestyle Objects</g:product_type>
     <g:google_product_category>177</g:google_product_category>
     <g:mpn>LWCS00008</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
-    <g:id>LWSC00004_BLACK</g:id>
-    <g:item_group_id>LWSC00004</g:item_group_id>
-    <title>ZADOG COLLAR BLACK</title>
-    <description>Vintage-effect leather dog collar with print. Description &amp; details - Vintage-effect leather dog collar - Zadig&amp;Voltaire signature print - Keeper to adjust size - Size guide Size 1: neck circumference 26 to 36 cm Size 2: neck circumference 34 to 44 cm Composition 100% COW LEATHER Care - Protect your leather item from humidity and any source of heat (radiator, sun) - Avoid your item coming into contact with water - Regularly care for your leather item using a colourless nourishing cream for leather, suitable for leather goods - Ensure you wear your item with similar colours - Avoid overfilling your bag to ensure its durability - In case of stains, contact a leather professional</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/accessories/lifestyle+objects/lwsc00004,black,zadog-collar.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsc00004/black/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsc00004/black/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsc00004/black/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsc00004/black/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/lwsc00004/black/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>410.00 ILS</g:price>
-    <g:sale_price>328.00 ILS</g:sale_price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Black</g:color>
-    <g:gender>female</g:gender>
-    <g:product_type>Accessories &gt; Lifestyle Objects</g:product_type>
-    <g:mpn>LWSC00004</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -19664,35 +19664,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>WMOW01418_TREILLIS</g:id>
-    <g:item_group_id>WMOW01418</g:item_group_id>
-    <title>BOYE COAT TREILLIS</title>
-    <description>Cotton-coated jacket, contrasting velvet collar, button closure with patch pockets and wing jacron patch on the back. - Parka in 100% coated cotton - Classic contrasting velvet collar - Button closure - Wing jacron patch on the back - Patch pockets and piped pockets - Long sleeves Model is 188 cm and is wearing a size M This item fits to size. Choose your usual size. Composition 100% COTTON** **Cotton fibers from organic farming Care This garment should be dry-cleaned only.</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/men/coats+%26+jackets/wmow01418,treillis,boye-coat.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01418/treillis/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01418/treillis/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01418/treillis/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01418/treillis/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01418/treillis/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>2045.00 ILS</g:price>
-    <g:sale_price>1227.00 ILS</g:sale_price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Treillis</g:color>
-    <g:gender>male</g:gender>
-    <g:product_type>Men &gt; Coats &amp; Jackets</g:product_type>
-    <g:google_product_category>5598</g:google_product_category>
-    <g:mpn>WMOW01418</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>WMOW01424_LIGHT BLUE</g:id>
     <g:item_group_id>WMOW01424</g:item_group_id>
     <title>BASES DENIM JACKT LIGHT BLUE</title>
@@ -19714,6 +19685,35 @@
     <g:product_type>Men &gt; Coats &amp; Jackets</g:product_type>
     <g:google_product_category>5598</g:google_product_category>
     <g:mpn>WMOW01424</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>WMOW01418_TREILLIS</g:id>
+    <g:item_group_id>WMOW01418</g:item_group_id>
+    <title>BOYE COAT TREILLIS</title>
+    <description>Cotton-coated jacket, contrasting velvet collar, button closure with patch pockets and wing jacron patch on the back. - Parka in 100% coated cotton - Classic contrasting velvet collar - Button closure - Wing jacron patch on the back - Patch pockets and piped pockets - Long sleeves Model is 188 cm and is wearing a size M This item fits to size. Choose your usual size. Composition 100% COTTON** **Cotton fibers from organic farming Care This garment should be dry-cleaned only.</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/men/coats+%26+jackets/wmow01418,treillis,boye-coat.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01418/treillis/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01418/treillis/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01418/treillis/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01418/treillis/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmow01418/treillis/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>2045.00 ILS</g:price>
+    <g:sale_price>1227.00 ILS</g:sale_price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Treillis</g:color>
+    <g:gender>male</g:gender>
+    <g:product_type>Men &gt; Coats &amp; Jackets</g:product_type>
+    <g:google_product_category>5598</g:google_product_category>
+    <g:mpn>WMOW01418</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -19953,34 +19953,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>WMJE00003_MEDIUM BLUE</g:id>
-    <g:item_group_id>WMJE00003</g:item_group_id>
-    <title>STEEVE JEANS MEDIUM BLUE</title>
-    <description>Regular-fit blue denim jeans. - Men's regular-fit jeans - Classic cut - Medium blue denim - straight legs - 5 pockets - Button fly - Belt loops - Leather label on back Model is 188 cm and is wearing a size 30. We recommend buying your usual size. Composition 99% COTTON 1% ELASTANE Care Machine-wash inside out on a 30°C delicate cycle with similar colours Air dry Iron inside out at a maximum of 150°C, or in case of customised details, at a maximum of 110°C avoiding the customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/men/pants+%26+jeans/wmje00003,medium+blue,steeve-jeans.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmje00003/medium+blue/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmje00003/medium+blue/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmje00003/medium+blue/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmje00003/medium+blue/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmje00003/medium+blue/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>910.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Medium Blue</g:color>
-    <g:gender>male</g:gender>
-    <g:product_type>Men &gt; Pants &amp; Jeans</g:product_type>
-    <g:google_product_category>204</g:google_product_category>
-    <g:mpn>WMJE00003</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>WMJE00009_BRUT</g:id>
     <g:item_group_id>WMJE00009</g:item_group_id>
     <title>MICK JEANS BRUT</title>
@@ -20001,6 +19973,34 @@
     <g:product_type>Men &gt; Pants &amp; Jeans</g:product_type>
     <g:google_product_category>204</g:google_product_category>
     <g:mpn>WMJE00009</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>WMJE00003_MEDIUM BLUE</g:id>
+    <g:item_group_id>WMJE00003</g:item_group_id>
+    <title>STEEVE JEANS MEDIUM BLUE</title>
+    <description>Regular-fit blue denim jeans. - Men's regular-fit jeans - Classic cut - Medium blue denim - straight legs - 5 pockets - Button fly - Belt loops - Leather label on back Model is 188 cm and is wearing a size 30. We recommend buying your usual size. Composition 99% COTTON 1% ELASTANE Care Machine-wash inside out on a 30°C delicate cycle with similar colours Air dry Iron inside out at a maximum of 150°C, or in case of customised details, at a maximum of 110°C avoiding the customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/men/pants+%26+jeans/wmje00003,medium+blue,steeve-jeans.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmje00003/medium+blue/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmje00003/medium+blue/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmje00003/medium+blue/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmje00003/medium+blue/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/wmje00003/medium+blue/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>910.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Medium Blue</g:color>
+    <g:gender>male</g:gender>
+    <g:product_type>Men &gt; Pants &amp; Jeans</g:product_type>
+    <g:google_product_category>204</g:google_product_category>
+    <g:mpn>WMJE00003</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -20414,35 +20414,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>KMCA01262_USED KAKI</g:id>
-    <g:item_group_id>KMCA01262</g:item_group_id>
-    <title>CLASH CARDIGAN MERINOS WOOL USED KAKI</title>
-    <description>Zipped hooded cardigan. - Cardigan in 100% merino wool - Zip closure - Drawstring hood - Two pockets - Long sleeves, double cuffs and ribbed edges Model is 188 cm and is wearing a size M We recommend buying your usual size. Composition 100% WOOL MERINOS* Care - Hand-wash or machine-wash on a 20°C wool cycle with a maximum spin speed of 400 rpm - Do not wring - Air dry flat - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/men/sweaters+%26+cardigans/kmca01262,used+kaki,clash-cardigan-merinos-wool.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01262/used+kaki/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01262/used+kaki/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01262/used+kaki/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01262/used+kaki/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01262/used+kaki/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>1275.00 ILS</g:price>
-    <g:sale_price>892.50 ILS</g:sale_price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Used Kaki</g:color>
-    <g:gender>male</g:gender>
-    <g:product_type>Men &gt; Sweaters &amp; Cardigans</g:product_type>
-    <g:google_product_category>212</g:google_product_category>
-    <g:mpn>KMCA01262</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>KMCA01262_DARK BLUE</g:id>
     <g:item_group_id>KMCA01262</g:item_group_id>
     <title>CLASH CARDIGAN MERINOS WOOL ENCRE - DARK BLUE</title>
@@ -20460,6 +20431,35 @@
     <g:sale_price>969.50 ILS</g:sale_price>
     <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
     <g:color>Dark Blue</g:color>
+    <g:gender>male</g:gender>
+    <g:product_type>Men &gt; Sweaters &amp; Cardigans</g:product_type>
+    <g:google_product_category>212</g:google_product_category>
+    <g:mpn>KMCA01262</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>KMCA01262_USED KAKI</g:id>
+    <g:item_group_id>KMCA01262</g:item_group_id>
+    <title>CLASH CARDIGAN MERINOS WOOL USED KAKI</title>
+    <description>Zipped hooded cardigan. - Cardigan in 100% merino wool - Zip closure - Drawstring hood - Two pockets - Long sleeves, double cuffs and ribbed edges Model is 188 cm and is wearing a size M We recommend buying your usual size. Composition 100% WOOL MERINOS* Care - Hand-wash or machine-wash on a 20°C wool cycle with a maximum spin speed of 400 rpm - Do not wring - Air dry flat - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/men/sweaters+%26+cardigans/kmca01262,used+kaki,clash-cardigan-merinos-wool.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01262/used+kaki/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01262/used+kaki/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01262/used+kaki/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01262/used+kaki/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/kmca01262/used+kaki/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>1275.00 ILS</g:price>
+    <g:sale_price>892.50 ILS</g:sale_price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Used Kaki</g:color>
     <g:gender>male</g:gender>
     <g:product_type>Men &gt; Sweaters &amp; Cardigans</g:product_type>
     <g:google_product_category>212</g:google_product_category>
@@ -20733,35 +20733,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>JMSS01321_DARK BLUE</g:id>
-    <g:item_group_id>JMSS01321</g:item_group_id>
-    <title>GEORGIO SWEATSHIRT ENCRE - DARK BLUE</title>
-    <description>Hooded sweatshirt with raglan sleeves and embroidery on the back. Sweatshirt in 100% cotton - "Voltaire" embroidery on the back - Hood - Front pocket - Long raglan sleeves - Regular fit Model is 191 cm and is wearing a size M This item fits to size. Choose your usual size. Composition 100% COTTON* Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/men/sweatshirts/jmss01321,encre,georgio-sweatshirt.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01321/encre/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01321/encre/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01321/encre/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01321/encre/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01321/encre/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>925.00 ILS</g:price>
-    <g:sale_price>555.00 ILS</g:sale_price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Dark Blue</g:color>
-    <g:gender>male</g:gender>
-    <g:product_type>Men &gt; Sweatshirts</g:product_type>
-    <g:google_product_category>212</g:google_product_category>
-    <g:mpn>JMSS01321</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>JMSS01336_CARBONE</g:id>
     <g:item_group_id>JMSS01336</g:item_group_id>
     <title>GEORGIO BLASON SWEATSHIRT CARBONE</title>
@@ -20791,27 +20762,27 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>JMSS01328_DARK BLUE</g:id>
-    <g:item_group_id>JMSS01328</g:item_group_id>
+    <g:id>JMSS01321_DARK BLUE</g:id>
+    <g:item_group_id>JMSS01321</g:item_group_id>
     <title>GEORGIO SWEATSHIRT ENCRE - DARK BLUE</title>
-    <description>Sweatshirt with prints on the front and back. - Cotton sweatshirt - Prints on the sleeve and back - Hood - Front pocket - Long sleeves Model is 188 cm and is wearing a size M This item fits to size. Choose your usual size. Composition 81% COTTON** 19% POLYESTER** **Cotton fibers from organic farming **Recycled polyester fibers Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/men/sweatshirts/jmss01328,encre,georgio-sweatshirt.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01328/encre/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01328/encre/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01328/encre/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01328/encre/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01328/encre/5/photo.jpg</g:additional_image_link>
+    <description>Hooded sweatshirt with raglan sleeves and embroidery on the back. Sweatshirt in 100% cotton - "Voltaire" embroidery on the back - Hood - Front pocket - Long raglan sleeves - Regular fit Model is 191 cm and is wearing a size M This item fits to size. Choose your usual size. Composition 100% COTTON* Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/men/sweatshirts/jmss01321,encre,georgio-sweatshirt.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01321/encre/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01321/encre/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01321/encre/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01321/encre/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01321/encre/5/photo.jpg</g:additional_image_link>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     <g:age_group>adult</g:age_group>
-    <g:price>1010.00 ILS</g:price>
-    <g:sale_price>606.00 ILS</g:sale_price>
+    <g:price>925.00 ILS</g:price>
+    <g:sale_price>555.00 ILS</g:sale_price>
     <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
     <g:color>Dark Blue</g:color>
     <g:gender>male</g:gender>
     <g:product_type>Men &gt; Sweatshirts</g:product_type>
     <g:google_product_category>212</g:google_product_category>
-    <g:mpn>JMSS01328</g:mpn>
+    <g:mpn>JMSS01321</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -20841,6 +20812,35 @@
     <g:product_type>Men &gt; Sweatshirts</g:product_type>
     <g:google_product_category>212</g:google_product_category>
     <g:mpn>JMSS01321</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>JMSS01328_DARK BLUE</g:id>
+    <g:item_group_id>JMSS01328</g:item_group_id>
+    <title>GEORGIO SWEATSHIRT ENCRE - DARK BLUE</title>
+    <description>Sweatshirt with prints on the front and back. - Cotton sweatshirt - Prints on the sleeve and back - Hood - Front pocket - Long sleeves Model is 188 cm and is wearing a size M This item fits to size. Choose your usual size. Composition 81% COTTON** 19% POLYESTER** **Cotton fibers from organic farming **Recycled polyester fibers Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/men/sweatshirts/jmss01328,encre,georgio-sweatshirt.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01328/encre/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01328/encre/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01328/encre/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01328/encre/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmss01328/encre/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>1010.00 ILS</g:price>
+    <g:sale_price>606.00 ILS</g:sale_price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Dark Blue</g:color>
+    <g:gender>male</g:gender>
+    <g:product_type>Men &gt; Sweatshirts</g:product_type>
+    <g:google_product_category>212</g:google_product_category>
+    <g:mpn>JMSS01328</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -21110,34 +21110,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>JMTN01630_GREY MELANGE</g:id>
-    <g:item_group_id>JMTN01630</g:item_group_id>
-    <title>TUNISIEN MONASTIR T-SHIRT GRIS CHINE - GREY MELANGE</title>
-    <description>Cotton Tunisian collar T-shirt. - Tunisian T-shirt - Tunisian collar with 5 buttons - Z&amp;V embroidery on the sleeve - Long sleeves Model is 186 cm and is wearing a size M We recommend buying your usual size. Composition 100% COTTON* Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmtn01630,gris+chine,tunisien-monastir-t-shirt.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmtn01630/gris+chine/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmtn01630/gris+chine/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmtn01630/gris+chine/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmtn01630/gris+chine/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmtn01630/gris+chine/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>430.00 ILS</g:price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Grey Melange</g:color>
-    <g:gender>male</g:gender>
-    <g:product_type>Men &gt; T-Shirts</g:product_type>
-    <g:google_product_category>212</g:google_product_category>
-    <g:mpn>JMTN01630</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>JMTN01630_JUDO</g:id>
     <g:item_group_id>JMTN01630</g:item_group_id>
     <title>TUNISIEN MONASTIR T-SHIRT JUDO</title>
@@ -21154,6 +21126,34 @@
     <g:price>410.00 ILS</g:price>
     <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
     <g:color>Judo</g:color>
+    <g:gender>male</g:gender>
+    <g:product_type>Men &gt; T-Shirts</g:product_type>
+    <g:google_product_category>212</g:google_product_category>
+    <g:mpn>JMTN01630</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>JMTN01630_GREY MELANGE</g:id>
+    <g:item_group_id>JMTN01630</g:item_group_id>
+    <title>TUNISIEN MONASTIR T-SHIRT GRIS CHINE - GREY MELANGE</title>
+    <description>Cotton Tunisian collar T-shirt. - Tunisian T-shirt - Tunisian collar with 5 buttons - Z&amp;V embroidery on the sleeve - Long sleeves Model is 186 cm and is wearing a size M We recommend buying your usual size. Composition 100% COTTON* Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmtn01630,gris+chine,tunisien-monastir-t-shirt.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmtn01630/gris+chine/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmtn01630/gris+chine/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmtn01630/gris+chine/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmtn01630/gris+chine/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmtn01630/gris+chine/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>430.00 ILS</g:price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Grey Melange</g:color>
     <g:gender>male</g:gender>
     <g:product_type>Men &gt; T-Shirts</g:product_type>
     <g:google_product_category>212</g:google_product_category>
@@ -21194,35 +21194,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>JMTS01756_HEATHER GREY</g:id>
-    <g:item_group_id>JMTS01756</g:item_group_id>
-    <title>TOMMY T-SHIRT GRIS CHINE CLAI - HEATHER GREY</title>
-    <description>Short-sleeve crew-neck t-shirt with customisation. - 100% cotton t-shirt - Front "Voltaire" print and photo print at back - Crew neck - Short sleeves - Customisation Model is 187 cm and is wearing a size M This item fits to size. Choose your usual size. Composition 100% COTTON* Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmts01756,gris+chine+clai,tommy-t-shirt.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01756/gris+chine+clai/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01756/gris+chine+clai/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01756/gris+chine+clai/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01756/gris+chine+clai/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01756/gris+chine+clai/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>495.00 ILS</g:price>
-    <g:sale_price>297.00 ILS</g:sale_price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>Heather Grey</g:color>
-    <g:gender>male</g:gender>
-    <g:product_type>Men &gt; T-Shirts</g:product_type>
-    <g:google_product_category>212</g:google_product_category>
-    <g:mpn>JMTS01756</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>JMTS01778_JUDO</g:id>
     <g:item_group_id>JMTS01778</g:item_group_id>
     <title>TOMMY T-SHIRT JUDO</title>
@@ -21244,6 +21215,35 @@
     <g:product_type>Men &gt; T-Shirts</g:product_type>
     <g:google_product_category>212</g:google_product_category>
     <g:mpn>JMTS01778</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>JMTS01756_HEATHER GREY</g:id>
+    <g:item_group_id>JMTS01756</g:item_group_id>
+    <title>TOMMY T-SHIRT GRIS CHINE CLAI - HEATHER GREY</title>
+    <description>Short-sleeve crew-neck t-shirt with customisation. - 100% cotton t-shirt - Front "Voltaire" print and photo print at back - Crew neck - Short sleeves - Customisation Model is 187 cm and is wearing a size M This item fits to size. Choose your usual size. Composition 100% COTTON* Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmts01756,gris+chine+clai,tommy-t-shirt.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01756/gris+chine+clai/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01756/gris+chine+clai/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01756/gris+chine+clai/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01756/gris+chine+clai/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01756/gris+chine+clai/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>495.00 ILS</g:price>
+    <g:sale_price>297.00 ILS</g:sale_price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>Heather Grey</g:color>
+    <g:gender>male</g:gender>
+    <g:product_type>Men &gt; T-Shirts</g:product_type>
+    <g:google_product_category>212</g:google_product_category>
+    <g:mpn>JMTS01756</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
@@ -21832,35 +21832,6 @@
     <g:custom_label_4></g:custom_label_4>
   </item>
   <item>
-    <g:id>JMTS01663_WHITE</g:id>
-    <g:item_group_id>JMTS01663</g:item_group_id>
-    <title>TOMMY T-SHIRT WHITE</title>
-    <description>Organic cotton t-shirt with short sleeves and "Rock'N'Roll Is Not Dead" print. - Encre navy blue organic cotton T-shirt for men - Contrasting "Rock'N'Roll Is Not Dead" print on the front - Crew neck - Short sleeves Model is 184 cm and is wearing a size M Composition 100% COTTON* Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
-    <link>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmts01663,white,tommy-t-shirt.html</link>
-    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01663/white/1/photo.jpg</g:image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01663/white/2/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01663/white/3/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01663/white/4/photo.jpg</g:additional_image_link>
-    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01663/white/5/photo.jpg</g:additional_image_link>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    <g:age_group>adult</g:age_group>
-    <g:price>445.00 ILS</g:price>
-    <g:sale_price>267.00 ILS</g:sale_price>
-    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
-    <g:color>White</g:color>
-    <g:gender>male</g:gender>
-    <g:product_type>Men &gt; T-Shirts</g:product_type>
-    <g:google_product_category>212</g:google_product_category>
-    <g:mpn>JMTS01663</g:mpn>
-    <g:identifier_exists>yes</g:identifier_exists>
-    <g:custom_label_0></g:custom_label_0>
-    <g:custom_label_1></g:custom_label_1>
-    <g:custom_label_2></g:custom_label_2>
-    <g:custom_label_3></g:custom_label_3>
-    <g:custom_label_4></g:custom_label_4>
-  </item>
-  <item>
     <g:id>JMTS01743_HEATHER GREY</g:id>
     <g:item_group_id>JMTS01743</g:item_group_id>
     <title>TOMMY T-SHIRT GRIS CHINE CLAI - HEATHER GREY</title>
@@ -21882,6 +21853,35 @@
     <g:product_type>Men &gt; T-Shirts</g:product_type>
     <g:google_product_category>212</g:google_product_category>
     <g:mpn>JMTS01743</g:mpn>
+    <g:identifier_exists>yes</g:identifier_exists>
+    <g:custom_label_0></g:custom_label_0>
+    <g:custom_label_1></g:custom_label_1>
+    <g:custom_label_2></g:custom_label_2>
+    <g:custom_label_3></g:custom_label_3>
+    <g:custom_label_4></g:custom_label_4>
+  </item>
+  <item>
+    <g:id>JMTS01663_WHITE</g:id>
+    <g:item_group_id>JMTS01663</g:item_group_id>
+    <title>TOMMY T-SHIRT WHITE</title>
+    <description>Organic cotton t-shirt with short sleeves and "Rock'N'Roll Is Not Dead" print. - Encre navy blue organic cotton T-shirt for men - Contrasting "Rock'N'Roll Is Not Dead" print on the front - Crew neck - Short sleeves Model is 184 cm and is wearing a size M Composition 100% COTTON* Care - Machine-wash inside out on a 30°C delicate cycle with similar colours - Air dry - Iron inside out at a maximum of 110°C, avoiding any customised details</description>
+    <link>https://www.zadigetvoltaire.co.il/en/product/men/t-shirts/jmts01663,white,tommy-t-shirt.html</link>
+    <g:image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01663/white/1/photo.jpg</g:image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01663/white/2/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01663/white/3/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01663/white/4/photo.jpg</g:additional_image_link>
+    <g:additional_image_link>https://cdnphotos.fastmag.fr/photos/27539/source/jmts01663/white/5/photo.jpg</g:additional_image_link>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    <g:age_group>adult</g:age_group>
+    <g:price>445.00 ILS</g:price>
+    <g:sale_price>267.00 ILS</g:sale_price>
+    <g:brand>ZADIG&amp;VOLTAIRE</g:brand>
+    <g:color>White</g:color>
+    <g:gender>male</g:gender>
+    <g:product_type>Men &gt; T-Shirts</g:product_type>
+    <g:google_product_category>212</g:google_product_category>
+    <g:mpn>JMTS01663</g:mpn>
     <g:identifier_exists>yes</g:identifier_exists>
     <g:custom_label_0></g:custom_label_0>
     <g:custom_label_1></g:custom_label_1>
