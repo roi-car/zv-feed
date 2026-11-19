@@ -384,6 +384,62 @@ def translate_color(color: str) -> str:
 
 
 # =============================================================================
+# DISPLAY TITLE
+# =============================================================================
+# Site H1s are upper case and end with the colour, often in French:
+#   "THIERRY T-SHIRT ARDOISE"  ->  "Thierry T-shirt - Dark Gray"
+# Only <title> changes. g:id, item_group_id and g:color are untouched.
+
+# Tokens that stay upper case (brand marks, roman numerals).
+TITLE_KEEP_UPPER = {"ZV", "Z&V", "ZADIG&VOLTAIRE", "R&R", "II", "III", "IV", "TV", "XL", "XXL", "ML", "MC"}
+# Tokens that go lower case ("New Era x ZV").
+TITLE_KEEP_LOWER = {"X"}
+
+
+def _strip_trailing_phrase(title: str, phrase: str) -> str:
+    """Remove `phrase` (and an optional ' - ' before it) from the end of title."""
+    phrase = (phrase or "").strip()
+    if not phrase:
+        return title
+    pattern = rf"\s*(?:-\s*)?(?<![\w&]){re.escape(phrase)}\s*$"
+    return re.sub(pattern, "", title, flags=re.IGNORECASE).strip()
+
+
+def _case_word(word: str) -> str:
+    up = word.upper()
+    if up in TITLE_KEEP_UPPER:
+        return up
+    if up in TITLE_KEEP_LOWER:
+        return word.lower()
+    if not any(c.isalpha() for c in word):
+        return word  # "100%", "|", "-"
+    # "T-SHIRT" -> "T-shirt", "WOMEN'S" -> "Women's"
+    return word[0].upper() + word[1:].lower()
+
+
+def build_display_title(raw_title: str, color_slug: Optional[str],
+                        color_display: Optional[str]) -> str:
+    """Proper-case the product name and end it with ' - <English colour>'."""
+    title = " ".join((raw_title or "").split())
+    if color_slug or color_display:
+        # Peel colour words off the end: the URL colour, the English colour,
+        # then any known French colour (longest first, so NOIR GOLD beats NOIR).
+        for phrase in (color_display, color_slug):
+            stripped = _strip_trailing_phrase(title, phrase)
+            if stripped:
+                title = stripped
+        for fr in sorted(COLOR_FR_TO_EN, key=len, reverse=True):
+            stripped = _strip_trailing_phrase(title, fr)
+            if stripped and stripped != title:
+                title = stripped
+                break
+    name = " ".join(_case_word(w) for w in title.split()) or (raw_title or "")
+    if color_display:
+        return f"{name} - {color_display}"
+    return name
+
+
+# =============================================================================
 # DATA MODEL
 # =============================================================================
 
@@ -845,16 +901,12 @@ def extract_product(session: requests.Session, url: str) -> Optional[Product]:
             title = og_title.get("content", "").strip()
     if not title:
         title = meta["slug"]
-    # Capitalize nicely
-    title = title.upper() if title.islower() else title
-
-    # Translate color to English for display (g:color, title), but keep
-    # the original French slug for g:id so catalog continuity is preserved.
+    # Translate color to English for display (g:color, title). IDs are
+    # built separately and are not affected by anything below.
     color_display = translate_color(meta["color"]) if meta["color"] else None
 
-    # Include color in title so Meta can show variants distinctly
-    if color_display and color_display.lower() not in title.lower():
-        title = f"{title} - {color_display.upper()}"
+    # "THIERRY T-SHIRT ARDOISE" -> "Thierry T-shirt - Dark Gray"
+    title = build_display_title(title, meta["color"], color_display)
 
     # --- Description ---
     description = extract_description(soup, html)

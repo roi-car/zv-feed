@@ -256,5 +256,21 @@ assert_eq(len(load_description_overrides("description_overrides.csv")), 7, "repo
 
 print()
 print("=" * 60)
+print("TEST: display titles")
+print("=" * 60)
+from zv_feed import build_display_title
+assert_eq(build_display_title("THIERRY T-SHIRT ARDOISE", "ardoise", "Dark Gray"), "Thierry T-shirt - Dark Gray", "French colour replaced")
+assert_eq(build_display_title("SERENA DRESS 100% CASHMERE ENCRE", "encre", "Dark Blue"), "Serena Dress 100% Cashmere - Dark Blue", "100% kept")
+assert_eq(build_display_title("NEW ERA X ZV ZADIG CAP BLACK", "black", "Black"), "New Era x ZV Zadig Cap - Black", "x lower, ZV upper")
+assert_eq(build_display_title("ALYS T-SHIRT JUDO", "judo", "Judo"), "Alys T-shirt - Judo", "untranslated colour kept")
+assert_eq(build_display_title("ZV CARD HOLDER NOIR GOLD", "noir gold", "Black Gold"), "ZV Card Holder - Black Gold", "longest French colour wins")
+assert_eq(build_display_title("VOLTAIRE R&R WATCH SILVER", "silver", "Silver"), "Voltaire R&R Watch - Silver", "R&R upper")
+assert_eq(build_display_title("ROCKY II DENIM BAG SILENT", "silent", "Silent"), "Rocky II Denim Bag - Silent", "roman numeral upper")
+assert_eq(build_display_title("MONASTIR MC T-SHIRT JUDO", "judo", "Judo"), "Monastir MC T-shirt - Judo", "MC upper")
+assert_eq(build_display_title("ROCK BAG", None, None), "Rock Bag", "no colour, no suffix")
+
+
+print()
+print("=" * 60)
 print("ALL TESTS PASSED ✓")
 print("=" * 60)
